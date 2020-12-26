@@ -8,7 +8,6 @@
   src: url('texgyreheros-bold.otf');
 }
 
-
 * {
         margin: 0;
         padding: 0;
@@ -22,6 +21,15 @@
 
 .websiteContainer {
   overflow: hidden;
+}
+
+.websiteContainer::-webkit-scrollbar {
+  display: none;
+}
+
+.websiteContainer {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 
