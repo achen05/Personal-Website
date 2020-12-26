@@ -44,6 +44,8 @@
   height: auto;
 }
 .introductionText {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
   hyphens: auto;
   width: 88%;
   font-family: texgyreheros;
