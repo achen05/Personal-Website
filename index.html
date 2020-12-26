@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <div class="websiteContainer">
     <div class="headerContainer">
       <p class="headerText">Aldon Chen</p>
     </div>
@@ -19,9 +20,6 @@
     <div class="linksContainer">
       <div class="linkUnitContainer">
         <a href="mailto:achen05@mica.edu"class="linkText">achen05@mica.edu</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="#" class="linkText">CV</a>
       </div>
       <div class="linkUnitContainer">
         <a href="https://www.linkedin.com/in/aldon-chen-04756a202" class="linkText">LinkedIn</a>
@@ -52,6 +50,8 @@
         <p class="projectTitle"><i>Discriminator</i></p>
         <p class="projectDescription">Animated portraits investigating biases in AI.</p>
       </div>
+      <div class="projectContainer" id="lastProjectContainer">
+      </div>
     </div>
 
 
@@ -75,18 +75,9 @@
 <p><i>Memory Interfaces</i>, Coming Soon</p>
 </div>
 </div>
-
+</div>
   </body>
   <script type="text/javascript">
-  function toggleContactInformation() {
-  var x = document.getElementById("contactInformation");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-
 
   var coll = document.getElementsByClassName("collapsible");
   var i;
