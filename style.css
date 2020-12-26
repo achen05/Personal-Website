@@ -1,0 +1,35 @@
+@font-face {
+  font-family: texgyreheros;
+  src: url('texgyreheros-regular.otf');
+}
+
+@font-face {
+  font-family: texgyreherosBold;
+  src: url('texgyreheros-bold.otf');
+}
+
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+
+
+.headerContainer {
+  background-color: grey;
+  width: 100%;
+  height: 48px;
+}
+
+.headerText {
+  font-family: texgyreherosBold;
+  letter-spacing: -1px;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+
+}
