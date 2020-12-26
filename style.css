@@ -17,19 +17,105 @@
         vertical-align: baseline;
         background: transparent;
     }
+.tabSpace {
+  padding-left: 10px;
+}
 
 
 .headerContainer {
-  background-color: grey;
+  background-color: white;
+  position: fixed;
   width: 100%;
-  height: 48px;
+  height: 52px;
 }
 
 .headerText {
   font-family: texgyreherosBold;
   letter-spacing: -1px;
   font-size: 20px;
-  padding-top: 10px;
-  padding-left: 10px;
+  padding-top: 12px;
+  padding-left: 20px;
 
+}
+
+.introductionContainer {
+  padding-top: 52px;
+  width: 100%;
+  height: auto;
+}
+.introductionText {
+  hyphens: auto;
+  width: 88%;
+  font-family: texgyreheros;
+  letter-spacing: -1px;
+  font-size: 28px;
+  padding-top: 10px;
+  padding-left: 20px;
+  line-height: 32px;
+}
+
+.linksContainer {
+  width: 100%;
+  padding-top: 32px;
+  height: auto;
+}
+
+.mainLinkText {
+  display: block-inline;
+  font-family: texgyreheros;
+  text-decoration: none;
+  letter-spacing: -1px;
+  font-size: 20px;
+  padding-left: 20px;
+  color: black;
+}
+
+.collapsibleContainer {
+  padding-top: 36px;
+}
+
+.collapsible {
+  color: black;
+  cursor: pointer;
+  padding: 20px;
+  width: 100%;
+  border-top: 1px solid black;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  font-family: texgyreheros;
+  align-content: left;
+}
+
+
+.active, .collapsible:hover {
+}
+
+.collapsible:after {
+  font-size: 20px;
+  content: '\002B';
+  color: black;
+  font-weight: regular;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  width: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  text-align: left;
+  font-size: 20px;
+  font-family: texgyreheros;
+  line-height: 28px;
 }

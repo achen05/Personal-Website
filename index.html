@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aldon Chen</title>
     <link rel="stylesheet" href="style.css">
   </head>
@@ -10,11 +10,50 @@
       <p class="headerText">Aldon Chen</p>
     </div>
     <div class="introductionContainer">
-      <p>introduction</p>
+      <p class="introductionText">&emsp;
+        Hi there!
+        I'm a multidisciplinary designer and artist in San Francisco.
+        I'm currently pursuing a BFA in Graphic Design and Interactive Art at the Maryland Institute College of Art.
+
+      </p>
     </div>
     <div class="linksContainer">
-      <a href="#">Contact</a>
-      <a href="#">CV</a>
+      <a href="#" class="mainLinkText">Contact</a>
+      <a href="#" class="mainLinkText">CV</a>
     </div>
+<div class="collapsibleContainer">
+    <button class="collapsible">Education</button>
+<div class="content">
+<p>Maryland Institute College of Art (Interactive Art, Graphic Design)</p>
+</div>
+<button class="collapsible">Awards</button>
+<div class="content">
+<p>Rett Nearburg Scholarship (2020)</p>
+<p>MICA Creative Vision Award (2020)</p>
+<p>MICA Academic Honors Award (2020)</p>
+</div>
+<button class="collapsible" id="lastCollapsible">Publications</button>
+<div class="content">
+<p><i>Memory Interfaces</i>, Coming Soon</p>
+</div>
+</div>
   </body>
+  <script type="text/javascript">
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.maxHeight){
+        content.style.maxHeight = null;
+        content.style.paddingBottom = 0 + "px";
+      } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+        content.style.paddingBottom = 20 + "px";
+      }
+    });
+  }
+  </script>
 </html>
