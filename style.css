@@ -166,14 +166,15 @@
 
 
 .collapsibleContainer {
+  width: 90%;
   padding-top: 64px;
 }
 
 .collapsible {
   color: black;
   cursor: pointer;
-  padding-left: 24px;
-  padding-right: 24px;
+  padding-left: 20px;
+  padding-right: 20px;
   padding-top: 16px;
   padding-bottom: 20px;
   width: 100%;
