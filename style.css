@@ -122,10 +122,25 @@
   display: inline-block;
   width: 250px;
   padding-right: 12px;
+  position: relative;
 }
 
 .projectImage {
   width: inherit;
+}
+
+.projectExpandSignifier {
+  font-family: texgyreheros;
+  font-size: 14px;
+  z-index: 2;
+  position: absolute;
+  top: 208px;
+  right: 32px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 100px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 
 .projectTitle {
