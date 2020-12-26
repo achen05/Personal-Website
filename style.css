@@ -21,6 +21,15 @@
   padding-left: 10px;
 }
 
+.sectionText {
+  font-family: texgyreheros;
+  letter-spacing: -1px;
+  font-size: 20px;
+  padding-top: 48px;
+  padding-left: 20px;
+
+}
+
 
 .headerContainer {
   background-color: white;
@@ -70,6 +79,34 @@
   font-size: 20px;
   padding-left: 20px;
   color: black;
+}
+
+.featuredProjectsContainer {
+  overflow: auto;
+  white-space: nowrap;
+  padding-top: 20px;
+}
+
+.projectContainer {
+  display: inline-block;
+  padding-left: 20px;
+  width: 250px;
+}
+
+.projectImage {
+  width: inherit;
+}
+
+.projectTitle {
+  width: inherit;
+  font-family: texgyreheros;
+
+}
+
+.projectDescription {
+  width: 250px;
+  font-family: texgyreheros;
+  white-space: normal;
 }
 
 .collapsibleContainer {
