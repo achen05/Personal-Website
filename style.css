@@ -76,7 +76,7 @@
 
 
 .linksContainer {
-  width: 100%;
+  width: 80%;
   padding-top: 20px;
   padding-left: 24px;
   height: auto;
@@ -84,6 +84,7 @@
 
 .linkUnitContainer {
   padding-right: 4px;
+  padding-bottom: 12px;
   display: inline-block;
 }
 
@@ -214,4 +215,8 @@
   font-size: 20px;
   font-family: texgyreheros;
   line-height: 28px;
+}
+
+#lastCollapsible {
+  border-bottom: 1px solid black;
 }
