@@ -82,9 +82,15 @@
 }
 
 .featuredProjectsContainer {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
   overflow: auto;
   white-space: nowrap;
   padding-top: 20px;
+}
+
+.featuredProjectsContainer::-webkit-scrollbar {
+    display: none;
 }
 
 .projectContainer {
