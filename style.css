@@ -8,12 +8,6 @@
   src: url('texgyreheros-bold.otf');
 }
 
-html,
-body {
-  position: relative;
-  height: 100%;
-  overflow: hidden;
-}
 
 * {
         margin: 0;
@@ -27,6 +21,7 @@ body {
 
 
 .websiteContainer {
+  overflow: hidden;
 }
 
 
