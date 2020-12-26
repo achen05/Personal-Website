@@ -35,20 +35,20 @@
   background-color: white;
   position: fixed;
   width: 100%;
-  height: 60px;
+  height: 68px;
 }
 
 .headerText {
   font-family: texgyreherosBold;
   letter-spacing: -1px;
   font-size: 22px;
-  padding-top: 12px;
+  padding-top: 16px;
   padding-left: 24px;
 
 }
 
 .introductionContainer {
-  padding-top: 52px;
+  padding-top: 64px;
   width: 100%;
   height: auto;
 }
