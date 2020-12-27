@@ -21,6 +21,9 @@
 
 .websiteContainer {
   overflow: hidden;
+  width: 100%;
+  max-width: 880px;
+  text-align: left;
 }
 
 .websiteContainer::-webkit-scrollbar {
@@ -214,7 +217,7 @@
 
 
 .collapsibleContainer {
-  width: 90%;
+  width: 95%;
   padding-top: 64px;
 }
 
