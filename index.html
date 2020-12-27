@@ -1,128 +1,19 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aldon Chen</title>
+    <meta charset="utf-8">
+    <title>Aldon Chen, "Dust Drawings"</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <center>
-    <div class="websiteContainer">
-    <div class="headerContainer">
-      <p class="headerText">Aldon Chen</p>
-    </div>
-    <div class="introductionContainer">
-      <p class="introductionText">&emsp;
-        I'm a multidisciplinary designer and artist in San Francisco.
-        I'm currently pursuing a BFA in Graphic Design and Interactive Art at the Maryland Institute College of Art.
-      </p>
-    </div>
-
-    <div class="linksContainer">
-      <div class="linkUnitContainer">
-        <a href="mailto:achen05@mica.edu"class="linkText">achen05@mica.edu</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="https://www.linkedin.com/in/aldon-chen-04756a202" class="linkText">LinkedIn</a>
-      </div>
-
-    </div>
-
-
-    <p class="sectionText">Featured Projects</p>
-    <div class="featuredProjectsContainer">
-      <div class="projectContainer" onclick="location.href='https://achen05.github.io/DustDrawings/'">
-        <img src="dustDrawingsPreview.gif" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>Dust Drawings</i></p>
-        <p class="projectDescription">Generative drawing program exploring Brownian Motion</p>
-      </div>
-      <div class="projectContainer" onclick="location.href='#'">
-        <img src="8memoryInterface.jpg" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>Memory Interfaces</i></p>
-        <p class="projectDescription">Drawimgs meditating on cognition and recollection.</p>
-      </div>
-      <div class="projectContainer" onclick="location.href='https://achen05.github.io/Camouflage/home.html'">
-        <img src="staticPreview.gif" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>This Is Not For You</i></p>
-        <p class="projectDescription">Interactive experience exploring sentimentality as encryption.</p>
-      </div>
-      <div class="projectContainer" onclick="location.href='https://achen05.github.io/Discriminator/'">
-        <img src="discriminatorPreview.gif" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>Discriminator</i></p>
-        <p class="projectDescription">Animated portraits investigating biases in AI.</p>
-      </div>
-      <div class="projectContainer" id="lastProjectContainer">
-      </div>
-    </div>
-
-    <p class="sectionText">Explore</p>
-    <div class="linksContainer">
-      <div class="linkUnitContainer">
-        <a href="#"class="linkText">UX/IxD Design</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="#" class="linkText">Graphic Design</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="#" class="linkText">Art</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="#" class="linkText">Poetry</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="#" class="linkText">Print Archive</a>
-      </div>
-
-    </div>
-
-<center>
-<div class="collapsibleContainer">
-  <button class="collapsible">Biography</button>
-<div class="content">
-<p>Available soon.</p>
-</div>
-    <button class="collapsible">Education</button>
-<div class="content">
-<p>Maryland Institute College of Art (Interactive Art, Graphic Design)</p>
-</div>
-<button class="collapsible">Awards</button>
-<div class="content">
-<p>Rett Nearburg Scholarship (2020)</p>
-<p>MICA Creative Vision Award (2020)</p>
-<p>MICA Academic Honors Award (2020)</p>
-</div>
-<button class="collapsible">Publications</button>
-<div class="content" id="lastCollapsible">
-<p><i>Memory Interfaces</i>, Coming Soon</p>
-</div>
-</div>
-</center>
-<p class="sectionText">This website was designed and developed with love by Aldon Chen. </p>
-<p class="sectionText"></p>
-
-</div>
+    <div class="container">
+    <p class="text">
+      Aldon Chen<br>
+      <i>Dust Drawings</i><br>
+      2020<br>
+    </p>
+    <script src="p5.min.js"></script>
+    <script src="sketch.js"></script>
+  </div>
   </body>
-  <script type="text/javascript">
-
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var content = this.nextElementSibling;
-      if (content.style.maxHeight){
-        content.style.maxHeight = null;
-        content.style.paddingBottom = 0 + "px";
-      } else {
-        content.style.maxHeight = content.scrollHeight + "px";
-        content.style.paddingBottom = 22 + "px";
-      }
-    });
-  }
-  </script>
 </html>
