@@ -95,7 +95,7 @@
   width: 86%;
   font-family: texgyreherosBold;
   letter-spacing: -1px;
-  font-size: 48px;
+  font-size: 36px;
   padding-left: 24px;
 }
 
@@ -269,4 +269,11 @@
 
 #lastCollapsible {
   border-bottom: 1px solid black;
+}
+
+.projectPageCoverImage {
+  padding-left: 24px;
+  width: 100%;
+  max-width: 400px;
+  padding-top: 16px;
 }
