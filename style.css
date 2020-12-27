@@ -18,6 +18,9 @@
         background: transparent;
     }
 
+body {
+  touch-action: manipulation;
+}
 
 .websiteContainer {
   overflow: hidden;
