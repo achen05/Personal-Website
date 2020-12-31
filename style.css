@@ -299,4 +299,5 @@ a:hover {
 .archiveImage {
   max-width: 250px;
   display: inline-block;
+  border: 1px solid lightgrey;
 }
