@@ -27,6 +27,7 @@ body {
   width: 100%;
   max-width: 880px;
   text-align: left;
+  padding-bottom: 64px;
 }
 
 .websiteContainer::-webkit-scrollbar {
