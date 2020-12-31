@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Aldon Chen</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <center>
+    <div class="websiteContainer">
+    <div class="headerContainer">
+      <p class="headerText">Aldon Chen</p>
+    </div>
+    <p class="sectionText">''</p>
+    <div class="linksContainer">
+      <div class="linkUnitContainer">
+        <a href="index.html"class="linkText">Back</a>
+      </div>
+
+    </div>
+
+
+    <p class="sectionText">Projects</p>
+    <div class="featuredProjectsContainer">
+      <div class="projectContainer" onclick="location.href='https://achen05.github.io/DustDrawings/'">
+        <img src="dustDrawingsPreview.gif" alt="" class="projectImage">
+        <p class="projectExpandSignifier">Click to View</p>
+        <p class="projectTitle"><i>Dust Drawings</i></p>
+        <p class="projectDescription">Generative drawing program exploring Brownian Motion</p>
+      </div>
+      <div class="projectContainer" onclick="location.href='https://achen05.github.io/Camouflage/home.html'">
+        <img src="staticPreview.gif" alt="" class="projectImage">
+        <p class="projectExpandSignifier">Click to View</p>
+        <p class="projectTitle"><i>This Is Not For You</i></p>
+        <p class="projectDescription">Interactive experience exploring sentimentality as encryption.</p>
+      </div>
+      <div class="projectContainer" id="lastProjectContainer">
+      </div>
+    </div>
+
+
+    <p class="sectionText">Archive</p>
+    <div class="archiveContainer">
+      
+    </div>
+<p class="sectionText">This website was designed and developed with love by Aldon Chen. </p>
+<p class="sectionText"></p>
+
+</div>
+<script type="text/javascript">
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+      content.style.paddingBottom = 0 + "px";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.paddingBottom = 22 + "px";
+    }
+  });
+}
+</script>
+  </body>
+</html>

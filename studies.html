@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Aldon Chen</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <center>
+    <div class="websiteContainer">
+    <div class="headerContainer">
+      <p class="headerText">Aldon Chen</p>
+    </div>
+    <div class="pageTitleContainer">
+      <p class="pageTitleText">
+        Studies
+      </p>
+    </div>
+
+
+    <p class="sectionText">2020</p>
+    <div class="archiveContainer">
+      <img src="studies/leonardoDaVinciStudy.jpg" alt="" class="archiveImage">
+      <img src="studies/metallicCupStudy.jpg" alt="" class="archiveImage">
+      <img src="studies/localValueStudy.jpg" alt="" class="archiveImage">
+      <img src="studies/contrastShadowStudy.jpg" alt="" class="archiveImage">
+      <img src="studies/fabricStudy.jpg" alt="" class="archiveImage">
+    </div>
+
+
+
+
+<p class="sectionText">This website was designed and developed with love by Aldon Chen. </p>
+<p class="sectionText"></p>
+
+</div>
+<script type="text/javascript">
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+      content.style.paddingBottom = 0 + "px";
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+      content.style.paddingBottom = 22 + "px";
+    }
+  });
+}
+</script>
+  </body>
+</html>

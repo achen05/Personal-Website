@@ -1,11 +1,11 @@
 @font-face {
   font-family: texgyreheros;
-  src: url('texgyreheros-regular.otf');
+  src: url('fonts/texgyreheros-regular.otf');
 }
 
 @font-face {
   font-family: texgyreherosBold;
-  src: url('texgyreheros-bold.otf');
+  src: url('fonts/texgyreheros-bold.otf');
 }
 
 * {
@@ -153,8 +153,12 @@ body {
   padding-left: 8px;
   padding-right: 8px;
   padding-bottom: 2px;
-
   color: black;
+}
+
+a:hover {
+  color: white;
+  background-color: black;
 }
 
 .featuredProjectsContainer {
@@ -221,7 +225,7 @@ body {
 
 .collapsibleContainer {
   width: 95%;
-  padding-top: 64px;
+  padding-top: 20px;
 }
 
 .collapsible {
@@ -283,4 +287,14 @@ body {
   width: 100%;
   max-width: 400px;
   padding-top: 16px;
+}
+
+.archiveContainer {
+  padding-left: 24px;
+  padding-top: 20px;
+}
+
+.archiveImage {
+  max-width: 250px;
+  display: inline-block;
 }
