@@ -291,6 +291,18 @@ a:hover {
   padding-top: 16px;
 }
 
+.projectIntroductionText {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  width: 86%;
+  font-family: texgyreheros;
+  font-size: 24px;
+  padding-top: 16px;
+  padding-left: 24px;
+  line-height: 28px;
+}
+
 .bodyText {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
