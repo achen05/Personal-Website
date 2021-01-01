@@ -285,10 +285,22 @@ a:hover {
 }
 
 .projectPageCoverImage {
-  padding-left: 24px;
   width: 100%;
-  max-width: 400px;
+  max-width: 828px;
+  object-fit: contain;
   padding-top: 16px;
+}
+
+.bodyText {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  width: 86%;
+  font-family: texgyreheros;
+  font-size: 24px;
+  padding-top: 10px;
+  padding-left: 24px;
+  line-height: 34px;
 }
 
 .archiveContainer {

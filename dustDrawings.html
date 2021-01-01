@@ -6,9 +6,10 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <center>
     <div class="websiteContainer">
     <div class="headerContainer">
-      <p class="headerText">Aldon Chen</p>
+      <p class="headerText" onclick="location.href='index.html'">Aldon Chen</p>
     </div>
 
     <div class="pageTitleContainer">
@@ -16,12 +17,47 @@
         Dust Drawings
       </p>
     </div>
-    <img src="dustDrawingsPreview.gif" alt="" class="projectPageCoverImage">
+    <center>
+    <img src="projectImages/dustDrawings/dustDrawingsCoverImage.png" alt="" class="projectPageCoverImage">
+  </center>
       <p class="introductionText">&emsp;
         A generative drawing program that allows users to converse with a Brownian Motion simulation.
         Drawings created in <i>Dust Drawings</i> are imperfect, imcomplete, and impermanent.
       </p>
+      <div class="linksContainer">
+        <div class="linkUnitContainer">
+          <a href="https://achen05.github.io/DustDrawings/"class="linkText">Visit Project</a>
+        </div>
+
+      </div>
+      <center>
+      <div class="collapsibleContainer">
+      <button class="collapsible">Details</button>
+      <div class="content" id="lastCollapsible">
+      <p>
+        2020<br>
+        Medium: New media (P5 for JS)<br>
+      </p>
+      </div>
     </div>
-</div>
+    <script type="text/javascript">
+
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+          content.style.maxHeight = null;
+          content.style.paddingBottom = 0 + "px";
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+          content.style.paddingBottom = 22 + "px";
+        }
+      });
+    }
+    </script>
   </body>
 </html>
