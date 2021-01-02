@@ -189,10 +189,11 @@ a:hover {
 
 .projectImage {
   width: inherit;
+  touch-action: none;
 }
 
-video::-webkit-media-controls-fullscreen-button, video::-webkit-media-controls-play-button, video::-webkit-media-controls-pausebutton {
-    display: none;
+video {
+  pointer-events: none;
 }
 
 .projectExpandSignifier {
