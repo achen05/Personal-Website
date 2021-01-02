@@ -189,11 +189,6 @@ a:hover {
 
 .projectImage {
   width: inherit;
-  touch-action: none;
-}
-
-video {
-  pointer-events: none;
 }
 
 .projectExpandSignifier {
