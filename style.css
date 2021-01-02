@@ -191,6 +191,10 @@ a:hover {
   width: inherit;
 }
 
+video::-webkit-media-controls-fullscreen-button, video::-webkit-media-controls-play-button, video::-webkit-media-controls-pausebutton {
+    display: none;
+}
+
 .projectExpandSignifier {
   font-family: texgyreheros;
   font-size: 14px;
