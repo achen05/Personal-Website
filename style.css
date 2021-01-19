@@ -1,11 +1,32 @@
 @font-face {
-  font-family: texgyreheros;
-  src: url('fonts/texgyreheros-regular.otf');
+  font-family: inter;
+  src: url('fonts/inter-regular.otf');
 }
 
 @font-face {
-  font-family: texgyreherosBold;
-  src: url('fonts/texgyreheros-bold.otf');
+  font-family: interBold;
+  src: url('fonts/inter-bold.otf');
+}
+
+@font-face {
+  font-family: interBold;
+  src: url('fonts/Inter-Bold.otf');
+}
+
+@font-face {
+  font-family: interSemibold;
+  src: url('fonts/Inter-Semibold.otf');
+}
+
+@font-face {
+  font-family: interMedium;
+  src: url('fonts/Inter-Medium.otf');
+}
+
+
+@font-face {
+  font-family: interRegular;
+  src: url('fonts/Inter-Regular.otf');
 }
 
 * {
@@ -16,6 +37,7 @@
         font-size: 100%;
         vertical-align: baseline;
         background: transparent;
+        box-sizing: border-box;
     }
 
 body {
@@ -23,244 +45,124 @@ body {
 }
 
 .websiteContainer {
-  overflow: hidden;
   width: 100%;
-  max-width: 880px;
+  max-width: 1000px;
   text-align: left;
   padding-bottom: 64px;
-}
-
-.websiteContainer::-webkit-scrollbar {
-  display: none;
-}
-
-.websiteContainer {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
-
-.tabSpace {
-  padding-left: 10px;
-}
-
-.sectionText {
-  font-family: texgyreheros;
-  letter-spacing: 0px;
-  font-size: 18px;
-  padding-top: 48px;
   padding-left: 24px;
-  width: 80%;
-
+  padding-right: 24px;
 }
-
 
 .headerContainer {
   background-color: white;
   position: fixed;
-  width: 100%;
-  height: 68px;
+  width: 40%;
+  max-width: 400px;
+  height: 64px;
   z-index: 3;
 }
 
 .headerText {
-  font-family: texgyreherosBold;
+  font-family: InterBold;
   letter-spacing: -1px;
-  font-size: 22px;
-  padding-top: 16px;
-  padding-left: 24px;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-left: 32px;
   cursor: pointer;
 
 }
 
-.introductionContainer {
-  padding-top: 64px;
-  width: 100%;
+.rowContainer {
+  padding-top: 48px;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 55%;
+  max-width: 800px;
+  padding: 16px;
+  padding-bottom: 16px;
   height: auto;
-}
-.introductionText {
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  width: 86%;
-  font-family: texgyreheros;
-  letter-spacing: -1px;
-  font-size: 30px;
-  padding-top: 10px;
-  padding-left: 24px;
-  line-height: 34px;
-}
-
-.pageTitleContainer {
-  padding-top: 64px;
-  width: 100%;
-  height: auto;
-}
-
-.pageTitleText {
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  width: 86%;
-  font-family: texgyreherosBold;
-  letter-spacing: -1px;
-  font-size: 36px;
-  padding-left: 24px;
-}
-
-.textProjectLinksContainer {
-  width: 80%;
-  padding-top: 20px;
-  padding-left: 24px;
-  height: auto;
-}
-
-.textProjectLinkTitle {
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  width: 86%;
-  font-family: texgyreheros;
-  letter-spacing: -1px;
-  font-size: 30px;
-  padding-top: 10px;
-  padding-left: 24px;
-  line-height: 34px;
-  text-decoration: none;
-  color: black;
-}
-
-
-.linksContainer {
-  width: 80%;
-  padding-top: 20px;
-  padding-left: 24px;
-  height: auto;
-}
-
-.linkUnitContainer {
-  padding-right: 4px;
-  padding-bottom: 12px;
-  display: inline-block;
-}
-
-.linkText {
-  border: 1px solid black;
-  border-radius: 100px;
-  display: block-inline;
-  font-family: texgyreheros;
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-size: 16px;
-  padding-left: 8px;
-  padding-right: 8px;
-  padding-bottom: 2px;
-  color: black;
-}
-
-a:hover {
-  color: white;
-  background-color: black;
-}
-
-.featuredProjectsContainer {
-  width: 100%;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-  overflow: auto;
-  white-space: nowrap;
-  padding-top: 20px;
-  padding-left: 24px;
-}
-
-.featuredProjectsContainer::-webkit-scrollbar {
-    display: none;
-}
-
-.projectContainer {
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  display: inline-block;
-  width: 250px;
-  padding-right: 12px;
-  position: relative;
-}
-
-.projectImage {
-  width: inherit;
-}
-
-.projectExpandSignifier {
-  font-family: texgyreheros;
-  font-size: 14px;
-  z-index: 2;
-  position: absolute;
-  top: 208px;
-  right: 32px;
   background-color: white;
-  border: 1px solid white;
-  border-radius: 100px;
-  padding-left: 8px;
-  padding-right: 8px;
-  padding-bottom: 2px;
 }
 
-.projectTitle {
-  padding-top: 8px;
-  width: inherit;
-  font-family: texgyreheros;
-
+#infoColumn {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 48px;
+  width: 45%;
+  max-width: 400px;
 }
 
-.projectDescription {
-  font-size: 16px;
-  width: 250px;
-  font-family: texgyreheros;
-  white-space: normal;
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-#lastProjectContainer {
-  width: 64px;
-}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 750px) {
 
+  .websiteContainer {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .headerContainer {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .column {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  #infoColumn {
+    position: static;
+    width: 100%;
+    max-width: 100%;
+  }
+
+}
 
 .collapsibleContainer {
-  width: 95%;
-  padding-top: 20px;
+  border-bottom: 1px solid black;
+  width: 100%;
 }
 
 .collapsible {
+  background-color: white;
   color: black;
   cursor: pointer;
   padding-left: 16px;
   padding-right: 16px;
-  padding-top: 16px;
-  padding-bottom: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
   width: 100%;
-  border-top: 1px solid black;
-  border-bottom: none;
-  border-right: none;
-  border-left: none;
+  border: none;
   text-align: left;
   outline: none;
   font-size: 20px;
-  font-family: texgyreheros;
-  align-content: left;
+  border-top: 1px solid black;
+  font-family: interSemibold;
+  letter-spacing: -0.8px;
   vertical-align: middle;
 }
 
-
 .active, .collapsible:hover {
+
 }
 
 .collapsible:after {
-  font-size: 20px;
   content: '\002B';
   color: black;
-  font-weight: regular;
+  font-weight: bold;
   float: right;
   margin-left: 5px;
+  vertical-align: middle;
 }
 
 .active:after {
@@ -269,59 +171,167 @@ a:hover {
 
 .content {
   width: auto;
-  padding-left: 16px;
-  padding-right: 16px;
+  padding: 0 16px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   text-align: left;
-  font-size: 20px;
-  font-family: texgyreheros;
-  line-height: 28px;
+  font-size: 16px;
+  font-family: interRegular;
+  line-height: 24px;
+  letter-spacing: -0.5px;
 }
 
-#lastCollapsible {
-  border-bottom: 1px solid black;
+.contentContainer {
+  padding-bottom: 20px;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
-.projectPageCoverImage {
+.collapsibleContentImage {
+  padding-top: 8px;
+  padding-bottom: 8px;
   width: 100%;
-  max-width: 828px;
+  max-height: 400px;
   object-fit: contain;
-  padding-top: 16px;
 }
 
-.projectIntroductionText {
+.collapsibleContentImageAlt {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 100%;
+}
+
+.introductionContainer {
+  width: 100%;
+  height: auto;
+  padding-bottom: 16px;
+}
+.introductionText {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
-  width: 86%;
-  font-family: texgyreheros;
-  font-size: 24px;
-  padding-top: 16px;
-  padding-left: 24px;
-  line-height: 28px;
+  width: 92%;
+  font-family: interMedium;
+  letter-spacing: -0.5px;
+  font-size: 20px;
+  padding-left: 16px;
+  line-height: 26px;
+  background-color: white;
 }
 
-.bodyText {
+.pageContentText {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
-  width: 86%;
-  font-family: texgyreheros;
+  width: 95%;
+  font-family: interRegular;
+  letter-spacing: -0.5px;
+  font-size: 16px;
+  padding-left: 16px;
+  padding-bottom: 20px;
+  line-height: 24px;
+  background-color: white;
+}
+
+.essayContentText {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  width: 95%;
+  letter-spacing: 0px;
+  font-size: 16px;
+  padding-left: 16px;
+  line-height: 24px;
+  background-color: white;
+}
+
+.pageTitleText {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  width: 95%;
+  font-family: interBold;
+  letter-spacing: -1px;
+  font-size: 32px;
+  padding-left: 16px;
+  line-height: 40px;
+}
+
+.pageTitleTextAlt {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  width: 95%;
+  font-family: interBold;
+  letter-spacing: -0.5px;
   font-size: 24px;
-  padding-top: 10px;
-  padding-left: 24px;
-  line-height: 34px;
+  padding-left: 16px;
+  line-height: 32px;
 }
 
-.archiveContainer {
-  padding-left: 24px;
-  padding-top: 20px;
+.sectionText {
+  font-family: interRegular;
+  letter-spacing: -0.5px;
+  font-size: 16px;
+  padding-top: 48px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  width: 90%;
+  line-height: 20px;
+  background-color: white;
 }
 
-.archiveImage {
-  max-width: 250px;
+#firstSectionText {
+  padding-top: 0px;
+}
+
+.linksContainer {
+  width: 90%;
+  padding-left: 16px;
+  padding-bottom: 16px;
+  height: auto;
+}
+
+.linkUnitContainer {
+  padding-right: 4px;
+  padding-bottom: 8px;
   display: inline-block;
-  border: 1px solid lightgrey;
+}
+
+.nestedLinkUnitContainer {
+  padding-right: 4px;
+  padding-bottom: 28px;
+  padding-top: 28px;
+  display: inline-block;
+}
+
+.linkText {
+  border: 1px solid black;
+  border-radius: 100px;
+  display: block-inline;
+  font-family: interMedium;
+  text-decoration: none;
+  letter-spacing: -0.5px;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  color: black;
+}
+
+a:hover {
+  color: white;
+  background-color: black;
+}
+.collapsibleTextLink {
+  color: blue;
+  text-decoration: underline;
+}
+
+.collapsibleTextLink:hover {
+  background-color: transparent;
+  color: purple;
 }

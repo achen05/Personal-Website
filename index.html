@@ -11,123 +11,148 @@
     <div class="headerContainer">
       <p class="headerText" onclick="location.href='index.html'">Aldon Chen</p>
     </div>
-    <div class="introductionContainer">
-      <p class="introductionText">&emsp;
-        I'm a multidisciplinary designer and artist in San Francisco.
-        I'm currently pursuing a BFA in Graphic Design and Interactive Art at the Maryland Institute College of Art.
-      </p>
-    </div>
+    <div class="rowContainer">
+    <div class="row">
+      <div class="column" id="infoColumn">
+        <div class="introductionContainer">
+          <p class="introductionText">&emsp;
+            Multidisciplinary designer and artist in San Francisco.
+            Currently pursuing a BFA in Graphic Design and Interactive Art at the Maryland Institute College of Art.
+          </p>
+        </div>
 
-    <div class="linksContainer">
-      <div class="linkUnitContainer">
-        <p class="linkText">Contact Unavailable</p>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="https://www.linkedin.com/in/aldon-chen-04756a202" class="linkText">LinkedIn</a>
+        <div class="linksContainer">
+          <div class="linkUnitContainer">
+            <p class="linkText">Contact</p>
+          </div>
+          <div class="linkUnitContainer">
+            <a href="#" class="linkText">CV</a>
+          </div>
+          <div class="linkUnitContainer">
+            <a href="https://www.linkedin.com/in/aldon-chen-04756a202" class="linkText">LinkedIn</a>
+          </div>
+        </div>
+
+
+
       </div>
 
-    </div>
+      <div class="column">
 
-
-    <p class="sectionText">Featured Projects</p>
-    <div class="featuredProjectsContainer">
-      <div class="projectContainer" onclick="location.href='dustDrawings.html'">
-        <img src="thumbnails/art/dustDrawingsThumbnail.gif" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>Dust Drawings</i></p>
-        <p class="projectDescription">Generative drawing program exploring Brownian Motion</p>
+        <p class="sectionText" id="firstSectionText">About</p>
+        <center>
+        <div class="collapsibleContainer">
+        <button class="collapsible">Education</button>
+      <div class="content">
+      <div class="contentContainer">
+      <p>Maryland Institute College of Art, 2024 (Graphic Design, Interactive Art)</p>
       </div>
-      <div class="projectContainer" onclick="location.href='comingSoon.html'">
-        <img src="thumbnails/art/memoryInterfaceThumbnail.jpg" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>Memory Interfaces</i></p>
-        <p class="projectDescription">Drawings meditating on cognition and recollection.</p>
       </div>
-      <div class="projectContainer" onclick="location.href='https://achen05.github.io/Camouflage/home.html'">
-        <img src="thumbnails/art/staticThumbnail.gif" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>This Is Not For You</i></p>
-        <p class="projectDescription">Interactive experience exploring sentimentality as encryption.</p>
-      </div>
-      <div class="projectContainer" onclick="location.href='https://achen05.github.io/Discriminator/'">
-        <img src="thumbnails/art/discriminatorThumbnail.gif" alt="" class="projectImage">
-        <p class="projectExpandSignifier">Click to View</p>
-        <p class="projectTitle"><i>Discriminator</i></p>
-        <p class="projectDescription">Animated portraits investigating biases in AI.</p>
-      </div>
-      <div class="projectContainer" id="lastProjectContainer">
+      <button class="collapsible">Awards</button>
+      <div class="content">
+      <div class="contentContainer">
+      <p>Rett Nearburg Scholarship (2020)</p>
+      <p>MICA Academic Honors Award (2020)</p>
+      <p>MICA Creative Vision Award (2020)</p>
       </div>
     </div>
-
-    <p class="sectionText">Explore</p>
-    <div class="linksContainer">
-      <div class="linkUnitContainer">
-        <a href="comingSoon.html"class="linkText">UX/IxD Design</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="graphicDesign.html" class="linkText">Graphic Design</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="art.html" class="linkText">Art</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="comingSoon.html" class="linkText">Poetry</a>
-      </div>
-      <div class="linkUnitContainer">
-        <a href="comingSoon.html" class="linkText">Essays</a>
-      </div>
-
+      <button class="collapsible">Essays</button>
+      <div class="content">
+      <div class="contentContainer">
+      <a href="essay2020-1.html" class="collapsibleTextLink">COVID-19: Why Businesses Should Maintain/Adopt the Recent Minimalist UI Trend (2020)</a>
     </div>
-    <p class="sectionText">About</p>
-<center>
-<div class="collapsibleContainer">
-  <button class="collapsible">Biography</button>
-<div class="content">
-<p>Available soon.</p>
-</div>
-    <button class="collapsible">Education</button>
-<div class="content">
-<p>Maryland Institute College of Art (Graphic Design, Interactive Art)</p>
-</div>
-<button class="collapsible">Awards</button>
-<div class="content">
-<p>Rett Nearburg Scholarship (2020)</p>
-<p>MICA Creative Vision Award (2020)</p>
-<p>MICA Academic Honors Award (2020)</p>
-</div>
-<button class="collapsible">Publications</button>
-<div class="content">
-<p><i>Memory Interfaces</i>, Coming Soon</p>
-</div>
-<button class="collapsible">Website Information</button>
-<div class="content" id="lastCollapsible">
-<p>
-  This website was designed and developed with love by Aldon Chen. <br>
-  Copyright © 2021 Aldon Chen. <br>
-  All rights reserved.
-</p>
-</div>
-</div>
-</center>
-</div>
-<script type="text/javascript">
+    </div>
+      <button class="collapsible">Publications</button>
+      <div class="content">
+      <div class="contentContainer">
+      <p>Memory Interfaces, Coming Soon</p>
+      </div>
+    </div>
+  </div>
+  </center>
 
-var coll = document.getElementsByClassName("collapsible");
-var i;
+        <p class="sectionText">Featured Projects</p>
+        <center>
+        <div class="collapsibleContainer">
+        <button class="collapsible">Dust Drawings</button>
+<div class="content">
+  <div class="contentContainer">
+    <img src="projectImages/dustDrawings/dustDrawingsCoverImage.jpg" alt="" class="collapsibleContentImage">
+    <p>Interactive, generative drawing program exploring conversations with Brownian Motion.
+      Drawings created by users in this program are imperfect, incomplete, and impermanent.
+    </p>
+    <div class="nestedLinkUnitContainer">
+      <a class="linkText" href="dustDrawings.html">View Project Process</a>
+    </div>
+  </div>
+</div>
+<button class="collapsible">iOS Safari Bookmarks</button>
+<div class="content">
+  <div class="contentContainer">
+    <img src="projectImages/safariBookmarksApple/safariBookmarksCoverImage.jpg" alt="" class="collapsibleContentImage">
+  <p>Goal: Encourage users to better organize their bookmarks. </br>
+    Solution: Redesigned information hierachy and microinteractions for adding new bookmarks in Apple's Safari for iOS.</p>
+  <div class="nestedLinkUnitContainer">
+    <a class="linkText" href="#">View Case Study</a>
+  </div>
+  </div>
+</div>
+<button class="collapsible">Memory Interfaces</button>
+<div class="content">
+  <div class="contentContainer">
+    <img src="projectImages/memoryInterfaces/memoryInterface8.jpg" alt="" class="collapsibleContentImage">
+  <p>Series of drawings exploring memory and cognition.</p>
+  <div class="nestedLinkUnitContainer">
+    <a class="linkText" href="#">View All</a>
+  </div>
+</div>
+</div>
+<button class="collapsible">This Is Not For You</button>
+<div class="content">
+  <div class="contentContainer">
+    <img src="projectImages/thisIsNotForYou/thisIsNotForYouCoverImage.jpg" alt="" class="collapsibleContentImage">
+  <p>Interactive experience revolving around sentimentality as a method of encryption.</p>
+  <div class="nestedLinkUnitContainer">
+    <a class="linkText" href="thisIsNotForYou.html">View Project Process</a>
+  </div>
+  </div>
+</div>
+<button class="collapsible">Discriminator</button>
+<div class="content">
+  <div class="contentContainer">
+    <img src="projectImages/discriminator/discriminatorCoverImage.jpg" alt="" class="collapsibleContentImage">
+  <p>Series of animated portraits researching biases in generative adversarial networks (GAN).</p>
+  <div class="nestedLinkUnitContainer">
+    <a class="linkText" href="discriminator.html">View Project Process</a>
+  </div>
+</div>
+</div>
+<button class="collapsible">Yves Tumor, National Sawdust</button>
+<div class="content">.
+  <div class="contentContainer">
+    <img src="projectImages/yvesTumorNationalSawdust.png" alt="" class="collapsibleContentImage">
+  <p>Alternative poster for Yves Tumor at National Sawdust.</p>
+</div>
+</div>
+<button class="collapsible">Zoom Meeting Prank</button>
+<div class="content">.
+  <div class="contentContainer">
+    <img src="projectImages/zoomMeetingPrank/zoomMeetingPrankCoverImage.jpg" alt="" class="collapsibleContentImage">
+  <p>MICA Forum Fall 2020 with Stephen Hendee. </br>For Hendee's project prompt about Frued's "Uncanny" I acted as two duplicates of myself in a surprise performance during a class session over Zoom. </p>
+  <div class="nestedLinkUnitContainer">
+    <a class="linkText" href="#">Watch Full Video</a>
+  </div>
+</div>
+</div>
+</div>
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-      content.style.paddingBottom = 0 + "px";
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-      content.style.paddingBottom = 22 + "px";
-    }
-  });
-}
-</script>
-  </body>
+      </div>
+    </div>
+
+</div>
+</div>
+
+<script type="text/javascript" src="collapsible.js"></script>
+<script type="text/javascript" src="sideScrollForMouse.js"></script>
+</body>
 </html>
