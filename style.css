@@ -64,7 +64,7 @@ body {
 
 .headerText {
   font-family: InterBold;
-  letter-spacing: -1px;
+  letter-spacing: -0.8px;
   font-size: 20px;
   padding-top: 20px;
   padding-left: 32px;
@@ -211,7 +211,7 @@ body {
   -ms-hyphens: auto;
   hyphens: auto;
   width: 92%;
-  font-family: interMedium;
+  font-family: interRegular;
   letter-spacing: -0.5px;
   font-size: 20px;
   padding-left: 16px;
