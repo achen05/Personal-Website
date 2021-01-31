@@ -294,7 +294,7 @@ body {
 
 .linkUnitContainer {
   padding-right: 4px;
-  padding-bottom: 8px;
+  padding-bottom: 20px;
   display: inline-block;
 }
 
@@ -318,6 +318,12 @@ body {
   padding-top: 4px;
   padding-bottom: 4px;
   color: black;
+}
+
+#inactiveButtonLink {
+  background-color: lightgrey;
+  border: 1px solid lightgrey;
+  color: grey;
 }
 
 a:hover {
