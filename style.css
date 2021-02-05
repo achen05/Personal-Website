@@ -129,8 +129,9 @@ body {
 }
 
 .columnImage {
-  width: 92%;
+  width: 100%;
   padding-left: 16px;
+  padding-right: 16px;
   padding-bottom: 24px;
   max-height: 400px;
 }
