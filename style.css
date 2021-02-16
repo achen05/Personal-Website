@@ -364,8 +364,8 @@ a:hover {
   display: block;
   color: blue;
   text-decoration: underline;
-  padding-top: 6px;
-  padding-bottom: 6px;
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
 
 .collapsibleTextLink:hover {
@@ -375,6 +375,6 @@ a:hover {
 
 .collapsibleText {
   display: block;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
