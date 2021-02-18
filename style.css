@@ -1,43 +1,25 @@
 @font-face {
-  font-family: inter;
-  src: url('fonts/inter-regular.otf');
-}
-
-@font-face {
-  font-family: interBold;
-  src: url('fonts/inter-bold.otf');
-}
-
-@font-face {
-  font-family: interBold;
+  font-family: Inter-Bold;
   src: url('fonts/Inter-Bold.otf');
 }
 
 @font-face {
-  font-family: interSemiBold;
+  font-family: Inter-SemiBold;
   src: url('fonts/Inter-SemiBold.otf');
 }
 
 @font-face {
-  font-family: interMedium;
+  font-family: Inter-Medium;
   src: url('fonts/Inter-Medium.otf');
 }
 
 
 @font-face {
-  font-family: interRegular;
+  font-family: Inter-Regular;
   src: url('fonts/Inter-Regular.otf');
 }
 
-@font-face {
-  font-family: neueMontreal-Bold;
-  src: url('fonts/neueMontreal-Bold.otf');
-}
 
-@font-face {
-  font-family: neueMontreal-Light;
-  src: url('fonts/neueMontreal-Light.otf');
-}
 
 * {
         margin: 0;
@@ -73,7 +55,7 @@ body {
 }
 
 .headerText {
-  font-family: InterBold;
+  font-family: Inter-Bold;
   letter-spacing: -0.8px;
   font-size: 20px;
   padding-top: 20px;
@@ -167,7 +149,7 @@ body {
   outline: none;
   font-size: 20px;
   border-top: 1px solid black;
-  font-family: interSemiBold;
+  font-family: Inter-SemiBold;
   letter-spacing: -0.6px;
   vertical-align: middle;
 }
@@ -195,7 +177,7 @@ body {
   transition: max-height 0.2s ease-out;
   text-align: left;
   font-size: 16px;
-  font-family: interRegular;
+  font-family: Inter-Regular;
   line-height: 24px;
   letter-spacing: -0.5px;
 }
@@ -238,7 +220,7 @@ body {
   -ms-hyphens: auto;
   hyphens: auto;
   width: 92%;
-  font-family: interRegular;
+  font-family: Inter-Regular;
   letter-spacing: -0.5px;
   font-size: 18px;
   padding-left: 16px;
@@ -252,7 +234,7 @@ body {
   -ms-hyphens: auto;
   hyphens: auto;
   width: 95%;
-  font-family: interRegular;
+  font-family: Inter-Regular;
   letter-spacing: -0.5px;
   font-size: 16px;
   padding-left: 16px;
@@ -278,7 +260,7 @@ body {
   -ms-hyphens: auto;
   hyphens: auto;
   width: 95%;
-  font-family: interBold;
+  font-family: Inter-Bold;
   letter-spacing: -1px;
   font-size: 32px;
   padding-left: 16px;
@@ -290,7 +272,7 @@ body {
   -ms-hyphens: auto;
   hyphens: auto;
   width: 95%;
-  font-family: interBold;
+  font-family: Inter-Bold;
   letter-spacing: -0.5px;
   font-size: 24px;
   padding-left: 16px;
@@ -300,7 +282,7 @@ body {
 }
 
 .sectionText {
-  font-family: interRegular;
+  font-family: Inter-Regular;
   letter-spacing: -0.5px;
   font-size: 16px;
   padding-top: 48px;
@@ -340,7 +322,7 @@ body {
   border: 1px solid black;
   border-radius: 100px;
   display: block-inline;
-  font-family: interMedium;
+  font-family: Inter-Medium;
   text-decoration: none;
   letter-spacing: -0.5px;
   font-size: 16px;
