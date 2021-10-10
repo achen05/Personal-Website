@@ -57,9 +57,9 @@ body {
 }
 
 .headerText {
-  font-family: Inter-Bold;
-  letter-spacing: -0.8px;
-  font-size: 20px;
+  font-family: Inter-Regular;
+  letter-spacing: -0.6px;
+  font-size: 18px;
   padding-top: 20px;
   padding-left: 32px;
   cursor: pointer;
@@ -143,16 +143,16 @@ body {
   cursor: pointer;
   padding-left: 16px;
   padding-right: 16px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
+  font-size: 16px;
   border-top: 1px solid black;
-  font-family: Inter-SemiBold;
-  letter-spacing: -0.6px;
+  font-family: Inter-Regular;
+  letter-spacing: -0.2px;
   vertical-align: middle;
 }
 
@@ -223,11 +223,11 @@ body {
   hyphens: auto;
   width: 92%;
   font-family: Inter-Regular;
-  letter-spacing: -0.5px;
-  font-size: 18px;
+  letter-spacing: -0.2px;
+  font-size: 16px;
   padding-left: 16px;
   padding-bottom: 8px;
-  line-height: 24px;
+  line-height: 22px;
   background-color: white;
 }
 
@@ -262,7 +262,7 @@ body {
   -ms-hyphens: auto;
   hyphens: auto;
   width: 95%;
-  font-family: Inter-Bold;
+  font-family: Inter-Regular;
   letter-spacing: -1px;
   font-size: 32px;
   padding-left: 16px;
@@ -324,10 +324,10 @@ body {
   border: 1px solid black;
   border-radius: 100px;
   display: block-inline;
-  font-family: Inter-Medium;
+  font-family: Inter-Regular;
   text-decoration: none;
-  letter-spacing: -0.5px;
-  font-size: 16px;
+  letter-spacing: -0.2px;
+  font-size: 14px;
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 4px;
