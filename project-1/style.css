@@ -1,0 +1,11 @@
+
+
+.collection-item {
+  content-visibility: auto;
+}
+
+.image-container {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
