@@ -1,0 +1,44 @@
+* {
+  font-family: serif;
+  font-size: 14px;
+}
+
+.website-container {
+  margin: 20px 8px 60px 8px;
+  max-width: 400px;
+}
+
+.website-body {
+  margin: 0px 6px 24px 6px;
+}
+
+
+.collapsible {
+  background-color: transparent;
+  color: black;
+  cursor: pointer;
+  padding: 8px 6px 8px 6px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: black;
+  font-weight: normal;
+  float: right;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0px 6px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.15s ease-out;
+  border-bottom: 1px solid black;
+}
