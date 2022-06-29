@@ -10,11 +10,12 @@
 
 .center-align {
   text-align: center;
+  margin-right: 4px;
 }
 
 .website-body {
   margin: 0px 6px 24px 6px;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 
