@@ -10,11 +10,17 @@
 
 .center-align {
   text-align: center;
-  margin-right: 4px;
+  /* margin-right: 4px; */
 }
 
 .website-body {
   margin: 0px 6px 24px 6px;
+  word-wrap: break-word;
+overflow-wrap: break-word;
+
+-webkit-hyphens: auto;
+ -moz-hyphens: auto;
+      hyphens: auto;
   /* text-align: justify; */
 }
 
