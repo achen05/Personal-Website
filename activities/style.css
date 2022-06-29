@@ -1,15 +1,20 @@
 * {
   font-family: serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .website-container {
-  margin: 20px 8px 60px 8px;
+  margin: 28px 8px 60px 8px;
   max-width: 400px;
+}
+
+.center-align {
+  text-align: center;
 }
 
 .website-body {
   margin: 0px 6px 24px 6px;
+  text-align: justify;
 }
 
 
