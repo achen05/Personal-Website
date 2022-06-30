@@ -4,7 +4,7 @@
 }
 
 .website-container {
-  margin: 28px 8px 60px 8px;
+  margin: 32px 8px 60px 8px;
   max-width: 400px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .website-body {
-  margin: 0px 6px 24px 6px;
+  margin: 0px 6px 32px 6px;
   /* word-wrap: break-word;
 overflow-wrap: break-word;
 
@@ -53,4 +53,8 @@ overflow-wrap: break-word;
   overflow: hidden;
   transition: max-height 0.15s ease-out;
   border-bottom: 1px solid lightgrey;
+}
+
+.border-top {
+  border-top: 1px solid lightgrey;
 }
