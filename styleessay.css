@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.website-container {
+  width: 100%;
+  max-width: 464px;
+  margin: 36px;
+  font-size: 12pt;
+  line-height: 16pt;
+  margin-top: 40px;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+.indent {
+  margin-left: 24px;
+  display: inline;
+}
