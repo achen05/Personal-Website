@@ -37,10 +37,11 @@ body {
 
 .info-text {
   text-align: center;
-  line-height: 11pt;
-  font-size: 9pt;
+  line-height: 12pt;
+  font-size: 9.5pt;
   margin: 40px;
   font-family: sans-serif;
+  letter-spacing: .25pt;
 }
 
 .subheader {
