@@ -6,7 +6,7 @@
 body {
   display: flex;
   justify-content: center;
-  margin: 80px 24px 100px 24px;
+  margin: 100px 32px 100px 32px;
 }
 
 .website-container {
@@ -17,6 +17,7 @@ body {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+  text-align: justify;
 }
 
 .indent {
@@ -26,27 +27,29 @@ body {
 
 .title-text {
   text-align: center;
-  font-size: 20pt;
+  font-size: 28pt;
   -webkit-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
-  line-height: 22pt;
+  line-height: 28pt;
 }
 
 .info-text {
   text-align: center;
   line-height: 11pt;
   font-size: 9pt;
-  margin: 32px;
+  margin: 48px;
   font-family: sans-serif;
 }
 
-.body-text {
-  text-align: justify;
-}
-b {
+.subheader {
   font-family: sans-serif;
   -webkit-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
+  text-align: left;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: -12px;
 }
