@@ -6,6 +6,7 @@
 body {
   display: flex;
   justify-content: center;
+  margin: 36px 20px 80px 20px;
 }
 
 .website-container {
@@ -23,4 +24,31 @@ body {
 .indent {
   margin-left: 24px;
   display: inline;
+}
+
+.title-text {
+  text-align: center;
+  font-size: 20pt;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  line-height: 22pt;
+}
+
+.info-text {
+  text-align: center;
+  line-height: 11pt;
+  font-size: 9.5pt;
+  margin: 32px;
+  font-family: sans-serif;
+}
+
+.body-text {
+  text-align: justify;
+}
+b {
+  font-family: sans-serif;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
 }
