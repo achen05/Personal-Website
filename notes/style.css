@@ -1,7 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .website-container {
@@ -28,7 +28,6 @@
     text-align: left;
     outline: none;
     gap: 16px;
-    font-size: 18px;
     padding: 8px 0px;
 }
 
@@ -51,7 +50,6 @@
 }
 
 .note-content {
-    font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
 }
 
