@@ -18,3 +18,10 @@ body {
     padding: 2px 4px;
     border: 1px solid black;
 }
+
+@media (max-width: 800px) {
+    body {
+        height: auto;
+        margin-top: 20px;
+    }
+}
