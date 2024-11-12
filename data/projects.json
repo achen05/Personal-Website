@@ -268,6 +268,11 @@
             },
             {
                 "type": "image",
+                "url": "assets/projects/comparator-mirror/frame.jpg",
+                "alt": "ASCII postcards"
+            },
+            {
+                "type": "image",
                 "url": "assets/projects/comparator-mirror/sides.jpg",
                 "alt": "Back of CD case for hypothetical music project, Ballads"
             },
@@ -281,29 +286,53 @@
         "story": [
             {
                 "type": "text",
-                "content": "A painting tool, based on the camera lucida, a painting tool invented during the rise of 18th century optics."
+                "content": "This project reconsiders the comparator mirror, a mechanical device that was invented during the rise of optics in the 18th century and was used to assist in painting realistic depictions of life, within a contemporary context. Informed both by the history of optics and by postmodern theories of subjectivity, I wanted to explore bridging the gap between notions of mechanical objectivity with contemporary theories about the subjective nature of perception and reality. The result is a reinterpreted comparator mirror that positions the optical sciences as itself a romantic, poetic form of subjectivity and sight."
             },
             {
-                "type": "video",
-                "url": "assets/projects/comparator-mirror/Comparator Mirror Video.mp4",
-                "poster": "assets/projects/comparator-mirror/open.jpg",
-                "caption": "Introduction to AutoSpell, a generative typography system that synthesizes typography and cellular automata."
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/main.jpg",
+                "alt": "Comparator Mirror, closed view",
+                "caption": "My comparator mirror features a modular, symmetrical design, inspired by the symmetries of light (reflection, refraction, etc.) and lends it a tone borrowed from historical associations between symmetry, geometry, and divinity. "
+            },
+            {
+                "type": "text",
+                "content": "It consists of three distinct parts: the Cover, the Tray, and the Frame, each of which function in the alignment and layering of images, transforming perception into a creative process."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/cover.jpg",
+                "alt": "Comparator Mirror, Cover",
+                "caption": "The Cover displays a diagram with assembly instructions and doubles as a magnetic backboard."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/tray.jpg",
+                "alt": "Comparator Mirror, Tray",
+                "caption": "The Tray holds the mirror and spare magnets, convertible to a flat canvas surface."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/tray.jpg",
+                "alt": "Comparator Mirror, Frame",
+                "caption": "The Frame secures all parts with magnetic points, and can be used without the Tray for oversized canvases."
             },
             {
                 "type": "image",
                 "url": "assets/projects/comparator-mirror/progress.jpg",
-                "alt": "ASCII postcards",
-                "caption": "Text-based code paradigms get reinterpreted as ASCII art."
+                "alt": "Comparator Mirror, Frame",
+                "caption": "I fabricated the comparator mirror using clear acrylic, which gave the rasterized graphics on the object a luminosity that speaks to light’s poetic and transcendent qualities."
             },
             {
                 "type": "image",
                 "url": "assets/projects/comparator-mirror/prototype.jpg",
-                "alt": "Back of CD case for hypothetical music project, Ballads"
+                "alt": "Comparator Mirror, Frame",
+                "caption": "I fabricated the comparator mirror using clear acrylic, which gave the rasterized graphics on the object a luminosity that speaks to light’s poetic and transcendent qualities."
             },
             {
                 "type": "image",
                 "url": "assets/projects/comparator-mirror/disagram.jpg",
-                "alt": "Documentation tablet for AC-1"
+                "alt": "Comparator Mirror, diagram of optics",
+                "caption": "Designed comparator mirror diagram."
             }
 
         ]
