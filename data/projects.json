@@ -1,0 +1,640 @@
+{
+    "ac-1": {
+        "title": "AC-1",
+        "type": "Typeface",
+        "description": "A humble typeface designed around ideas about respect, modesty, and authorship.",
+        "link": "case-study.html?project=ac-1",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/1.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/4.jpg"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/6.jpg"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/1.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/2.jpg"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/3.jpg"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/4.jpg"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/5.jpg"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/oxygen.jpg"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/6.jpg"
+            }
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "Resisting any strict traditional classification, AC-1 draws features from a mix of formal styles: the spareness of rational, the simplicity of a geometric, a touches of warmth inspired by humanist forms."
+            },
+            {
+                "type": "text",
+                "content": "AC-1 offers an unassuming balance of confident, thoughtful sincerity. It is spare without being bleak."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/humanisttouches.jpg",
+                "alt": "Select humanist details, AC-1",
+                "caption": "AC-1 resists any rigid categorization, hybridizing features from multiple traditional type classifications. On one hand, touches of traditionally humanist features add an approachability that is critical of modernist sterility. On the other, its decided dedication to clarity opposes the excess and irony associated with postmodern styles."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/oxygen.jpg",
+                "alt": "AC-1 demonstraction",
+                "caption": "AC-1 being used "
+            },
+            {
+                "type": "text",
+                "content": "AC-1 challenges"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/3.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+        ]
+    },
+    "sfpc-identity": {
+        "title": "School for Poetic Computation",
+        "type": "Visual Identity",
+        "description": "Giving form to alternative frameworks of computer programming with a visual identity that is itself a practice of subversive code.",
+        "link": "case-study.html?project=sfpc-identity",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads-cd-back.jpg"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/schedule.jpg"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/1.jpg",
+                "alt": "ASCII postcards"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/2.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/postcards.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/schedule.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/tickets.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/letterhead.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/businesscards.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads-cd-back.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads-cd-front.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads1.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads2.jpg",
+                "alt": "ASCII postcards"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads3.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/AA1.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/AA2.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            }
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "A visual identity concept for the School for Poetic Computation (SFPC), an artist run school in New York that focuses on the intersection of art, code, hardware, and critical theory. SFPC revolves around the idea of 'poetic computation:' an alternative approach to programming that challenges the activity's traditional functions, uses, values, and assumptions. In doing this, poetic computation becomes a kind of cultural activism, recontextualizing code through critical use and misuse. <br><br> My visual identity concept aimed to give form to 'poetic computation' which I discovered could only be represented authentically through a visual identity that is, itself, a gesture of subversive programming."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/postcards.jpg",
+                "alt": "ASCII postcards",
+                "caption": "The project began with one of, if not the, most ubiquitous forms of code: text. I appropriated text-based code in order to create ASCII art."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/2.jpg",
+                "alt": "ASCII postcards",
+                "caption": "Hand-drawn ASCII art became one form of the visual identity."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads-cd-front.jpg",
+                "alt": "ASCII postcards",
+                "caption": "This strategy of appropriation was translated into other forms of code, such as early programmable music technology."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads1.jpg",
+                "alt": "ASCII postcards",
+                "caption": "Appropriating early programmed music into posters."
+            },
+            {
+                "type": "video",
+                "url": "assets/projects/sfpc/Aldon_Chen_Final.mp4",
+                "poster": "assets/projects/sfpc/ballads-cd-back.jpg",
+                "caption": "The project also explored code in the form of abstract models, such as cellular automata. Using Processing, I programmed AutoSpell, a generative typography system that synthesizes typography and the Game of Life, a type of cellular automata."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/AA1.jpg",
+                "alt": "ASCII postcards",
+                "caption": "AutoSpell was used to capture a moment of typography and imagery interacting with a live cellular automata simulation."
+            }
+
+        ]
+    },
+    "comparator-mirror": {
+        "title": "Comparator Mirror",
+        "type": "Object",
+        "description": "Reinterpreting a painting tool from 18th century optical sciences.",
+        "link": "case-study.html?project=comparator-mirror",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/main.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/open.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/tray.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/main.jpg",
+                "alt": "ASCII postcards"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/cover.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/open.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/tray.jpg",
+                "alt": "ASCII postcards"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/sides.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/disagram.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            }
+
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "A painting tool, based on the camera lucida, a painting tool invented during the rise of 18th century optics."
+            },
+            {
+                "type": "video",
+                "url": "assets/projects/comparator-mirror/Comparator Mirror Video.mp4",
+                "poster": "assets/projects/comparator-mirror/open.jpg",
+                "caption": "Introduction to AutoSpell, a generative typography system that synthesizes typography and cellular automata."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/progress.jpg",
+                "alt": "ASCII postcards",
+                "caption": "Text-based code paradigms get reinterpreted as ASCII art."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/prototype.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/comparator-mirror/disagram.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ]
+    },
+    "source-material": {
+        "title": "Source Material",
+        "type": "Publication",
+        "description": "A publication for and by students.",
+        "link": "case-study.html?project=source-material",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+            
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ],
+        "story": [
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ]
+    },
+    "writing-under-from-and-beyond": {
+        "title": "Writing Under, From, and Beyond",
+        "type": "Print",
+        "description": "Printed matter designed for the community within Chris Kraus' courses at ArtCenter.",
+        "link": "case-study.html?project=writing-under-from-and-beyond",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/investigations.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/portrait.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/observations.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/portrait.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/investigations.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/observations.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "A series of printed matter designed while as a student of and a Teaching Assistant to Chris Kraus, author of <i>I Love Dick</i>. Designs were inspired by the class' unique pedagogy and the journalistic approach to personal writing that was taught by Kraus."
+            },
+            {
+                "type": "video",
+                "url": "assets/projects/sfpc/Aldon_Chen_Final.mp4",
+                "poster": "assets/projects/sfpc/ballads-cd-back.jpg",
+                "caption": "Introduction to AutoSpell, a generative typography system that synthesizes typography and cellular automata."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/postcards.jpg",
+                "alt": "ASCII postcards",
+                "caption": "Text-based code paradigms get reinterpreted as ASCII art."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads-cd-back.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/1.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/postcards.jpg",
+                "alt": "ASCII postcards"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sfpc/ballads-cd-back.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/ac-1/1.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ]
+    },
+    "yin": {
+        "title": "Yin",
+        "type": "Sculpture",
+        "description": "A sculptural object made of clear, cast acrylic.",
+        "link": "case-study.html?project=yin",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/yin/front.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/quarter.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/detail.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/yin/front.jpg",
+                "alt": "ASCII postcards"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/quarter.jpg",
+                "alt": "Back of CD case for hypothetical music project, Ballads"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/side.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/detail.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "A visual identity concept for the School for Poetic Computation, an artist run school in New York that focuses on the intersection of art, code, hardware, and critical theory. By recontextualizing forms of code, the visual identity itself becomes a practice of poetic computation."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/process.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/progress.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ]
+    },
+    "to-gary-kornblau": {
+        "title": "To Gary Kornblau, From Aldon Chen",
+        "type": "Writing",
+        "description": "Talking back to a professor for assigning homework over break.",
+        "link": "case-study.html?project=to-gary-kornblau",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/to-gary-kornblau/ig2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/to-gary-kornblau/ig3.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/to-gary-kornblau/ig4.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/to-gary-kornblau/ig2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/to-gary-kornblau/ig3.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/to-gary-kornblau/ig4.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/to-gary-kornblau/ig5.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "Prompted by an assignment based on Bell Hook's idea of 'talking back', I decided to 'talk back' to my professor, Gary Kornblau, about how very seriously egregious it was that he decided to assign this work to be due the first day of class."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/process.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/progress.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ]
+    },
+    "object-lessons": {
+        "title": "Object Lessons",
+        "type": "Zine",
+        "description": "Examining the framework of objecthood in society and culture.",
+        "link": "case-study.html?project=object-lessons",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/object-lessons/1.png",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/object-lessons/4.png",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/object-lessons/5.png",
+                "alt": "Documentation tablet for AC-1"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/object-lessons/1.png",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/object-lessons/4.png",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/object-lessons/5.png",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "In collaboration with designer, Nate Turley"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/process.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/yin/progress.jpg",
+                "alt": "Documentation tablet for AC-1"
+            }
+
+        ]
+    }
+}

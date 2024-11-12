@@ -1,29 +1,68 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aldon Chen</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <div class="website-container">
-      <p>Aldon Chen
-        <br><br>
-        Their previous work includes graphic design, web development, product design, and fine art.
-        They have primarily worked with nonprofit organizations at the intersection of art, culture, social activism, and technology.
-        <br><br>
-        They are currently pursuing a BFA Graphic Design at ArtCenter College of Design.
-        Previously, they studied at the Maryland Institute College of Art and the School for Poetic Computation.
-        <br><br>
-        This website is currently being renovated.
-        <br><br>
-      </p>
-      <p class="subtitle">Latest</p>
-      <a href="container-theory/index.html" class="button"><p class="button-text">Container Theory</p></a>
-      <p class="subtitle">Connect</p>
-      <a href="https://www.instagram.com/aldonchen.jpg/" class="button"><p class="button-text">@aldonchen.jpg</p></a>
-      <a href="mailto:achen41@inside.artcenter.edu" class="button"><p class="button-text">achen41@inside.artcenter.edu</p></a>
-      </div>
-  </body>
+    <title>Index</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="website-wrapper">
+        <div id="navigation-bar"></div>
+
+            <div class="slideshow-wrapper">
+                <div class="slideshow-container">
+                    <div class="slide">
+                        <img src="assets/projects/ac-1/1.jpg" alt="Documentation tablet for AC-1" class="slide-image modal-trigger">
+                        <div class="slide-information">
+                            <p class="project-title">AC-1</p>
+                            <p class="project-type">Font Design</p>
+                        </div>
+                        <a href="case-study.html?project=ac-1" class="button slide-button">View Full Project</a>
+                    </div>
+
+                    <div class="slide">
+                        <img src="assets/projects/sourceMaterial/mapcover.jpg" alt="Geological Anomalies Map for Issue 05: Ways of Mapping" class="modal-trigger">
+                        <div class="slide-information">
+                                <p class="project-title">Source Material</p>
+                            <p class="project-type">Publication</p>
+                        </div>
+                        <a href="case-study.html?project=source-material" class="button slide-button">View Full Project</a>
+                    </div>
+
+                    <div class="slide">
+                        <img src="assets/projects/sfpc/ballads-cd-back.jpg" alt="CD case, backside, for the School for Poetic Computation" class="modal-trigger">
+                        <div class="slide-information">
+                                <p class="project-title">School for Poetic Computation</p>
+                            <p class="project-type">Visual Identity</p>
+                        </div>
+                        <a href="case-study.html?project=sfpc-identity" class="button slide-button">View Full Project</a>
+                    </div>
+
+                    <div class="slide">
+                        <img src="assets/projects/sfpc/4.jpg" alt="Schedule for School for Poetic Computation" class="modal-trigger">
+                        <div class="slide-information">
+                                <p class="project-title">School for Poetic Computation</p>
+                            <p class="project-type">Visual Identity</p>
+                        </div>
+                        <a href="case-study.html?project=sfpc-identity" class="button slide-button">View Full Project</a>
+                    </div>
+    
+    
+    
+    
+    
+                    <div class="slideshow-button-container">
+                        <a class="button prev" onclick="changeSlide(-1)"><<a>
+                        <div id="slide-number" class="slide-number"></div>
+                        <a class="button next" onclick="changeSlide(1)">></a>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <div id="modal-container"></div>
+    <script src="js/loadNavigationBar.js"></script>
+    <script src="js/slide-show.js"></script>
+    <script src="js/modal.js"></script>
+</body>
 </html>

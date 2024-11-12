@@ -1,0 +1,641 @@
+:root {
+    --image-size: 100%;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: auto;
+    /* border: 1px dotted blue; */
+    box-sizing: border-box;
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                supported by Chrome, Edge, Opera and Firefox */
+}
+
+*::-webkit-scrollbar {
+    display: none;
+    /* Hide the scrollbar */
+}
+
+
+body {
+    background-color: #fcfcfc;
+}
+
+
+
+/* Global Structure */
+
+.website-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 20px 0px 20px;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.column {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    padding: 120px 0px;
+    /* border: 1px solid blue; */
+}
+
+.sticky-column {
+    position: sticky;
+    top: 0px;
+    /* height: 100dvh;
+    justify-content: center;
+    padding: 0px; */
+}
+
+.split-column-wrapper {
+    display: flex;
+    width: 100%;
+    max-width: 1000px;
+    gap: 24px;
+    margin-bottom: 140px;
+}
+
+/* Components */
+
+.button {
+    display: block;
+    background-color: white;
+    text-align: center;
+    padding: 6px 8px;
+    border: 1px solid rgb(219, 219, 219);
+    width: 100%;
+    text-decoration: none;
+    color: black;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.disabled {
+    background-color: lightgrey;
+    color: grey;
+}
+
+.button-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.label {
+    color: grey;
+    font-size: 14px;
+    /* border-bottom: 1px solid lightgrey; */
+    padding: 4px 0px 10px 0px;
+}
+
+
+.information-body-wrapper {
+    display: flex;
+    gap: 32px;
+    max-width: 1000px;
+    height: 100dvh;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Navigation */
+
+#navigation-bar {
+    /* border: 5px solid blue; */
+    top: 20px;
+    max-width: 500px;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+
+.navigation-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* border: 3px solid blue; */
+    box-sizing: border-box;
+    padding: 0px 32px;
+}
+
+.navigation-section {
+    width: auto;
+    display: flex;
+    gap: 8px;
+}
+
+.navigation-button {
+    width: auto;
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, .8);
+    backdrop-filter: blur(10px);
+    /* Blur the background behind the modal */
+    -webkit-backdrop-filter: blur(10px);
+    /* For Safari */
+}
+
+/* Slides */
+
+.slideshow-wrapper {
+    width: 100%;
+    max-width: 500px;
+    height: 100dvh;
+    /* border: 1px solid blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 48px;
+
+}
+
+.slideshow-container {
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+    width: 100%;
+    padding: 16px;
+    /* border: 1px solid blue; */
+}
+
+.slide {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 12px;
+    /* border: 1px solid blue; */
+
+    /* border: 3px solid black; */
+}
+
+.slide-image {
+    width: 100%;
+    /* max-height: 50dvh; */
+}
+
+.slide-information {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.slide-project-type {
+    color: grey;
+}
+
+.slide-number {
+    color: grey;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    /* border: 1px solid lightgrey; */
+}
+
+.image-collection {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+}
+
+.slide-button {
+    display: block;
+    width: 100%;
+}
+
+.slideshow-button-container {
+    width: 100%;
+    /* padding: 0px 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+
+
+}
+
+.prev,
+.next {
+    display: block;
+    cursor: pointer;
+    width: auto;
+    user-select: none;
+    touch-action: manipulation;
+    padding: 6px 20px;
+}
+
+
+/* Work  */
+
+.abbreviated-list-column {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    /* border: 1px solid black; */
+}
+
+#abbreviated-projects-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+#projects-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.project-list-item-container {
+    display: flex;
+    /* border: 1px solid blue; */
+}
+
+.project-list-item-number {
+    color: grey;
+    width: 36px;
+}
+
+.project-list-item-content {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid lightgrey;
+    width: 100%;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+.project-abbreviated-container {
+    display: flex;
+    /* border: 1px solid blue; */
+}
+
+.project-index {
+    width: 28px;
+    color: grey;
+}
+
+.abbreviated-item {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+
+.project-item-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.project-gallery-images {
+    height: 100%;
+    object-fit: cover;
+}
+
+.project-item-information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    gap: 2px;
+}
+
+.project-item-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    border: 1px solid rgba(0, 0, 0, .1);
+    padding: 16px;
+}
+
+.project-title {}
+
+.project-type {
+    color: grey;
+    text-align: right;
+}
+
+.project-description {
+    text-align: center;
+    color: grey;
+}
+
+/* Modal */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 2;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100vw;
+    /* Full width */
+    height: 100dvh;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(255, 255, 255, 0.9);
+    /* Black w/ opacity */
+    backdrop-filter: blur(25px);
+    /* Blur the background behind the modal */
+    -webkit-backdrop-filter: blur(25px);
+    /* For Safari */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+
+}
+
+/* Modal Content (image) */
+.modal-content {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 95vw;
+    max-height: 80dvh;
+    object-fit: contain;
+    border: 1px solid grey;
+    /* border: 1px solid blue; */
+}
+
+/* Caption of modal image (optional) */
+#caption {
+    text-align: center;
+    color: grey;
+    max-width: 300px;
+}
+
+/* Add Animation - Zoom in the Modal */
+/* .modal-content {
+            animation-name: zoom;
+            animation-duration: 0.6s;
+        }
+        
+        @keyframes zoom {
+            from {transform: scale(0)} 
+            to {transform: scale(1)}
+        } */
+
+/* The Close Button (using a <p>) */
+.close {
+    width: auto;
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+    border: 1px solid black;
+}
+
+/* .close-button-wrapper {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        } */
+
+.close:hover,
+.close:focus {}
+
+
+
+
+/* Case Study */
+
+.case-study-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1000px;
+    gap: 32px;
+    margin-top: 140px;
+    margin-bottom: 140px;
+
+}
+
+.paratext-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    gap: 4px;
+}
+
+.paratext-type {
+    color: grey;
+}
+
+
+#media-container {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.media-slideshow-container {
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+}
+
+.main-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+    padding: 10px;
+    border: 1px solid lightgrey;
+}
+
+.thumbnail-grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: fit-content;
+    gap: 16px;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumbnail {
+    width: 80px;
+    /* object-fit: cover;
+    aspect-ratio: 1 /1; */
+    cursor: pointer;
+    border: 1px solid lightgrey;
+}
+
+.media-slideshow-buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+
+.slideshow-button {
+    display: block;
+    cursor: pointer;
+    width: auto;
+    user-select: none;
+    touch-action: manipulation;
+    padding: 6px 20px;
+}
+
+#story-container {
+    max-width: 500px;
+}
+
+
+.project-story {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 64px;
+    ;
+}
+
+.storyMedia-container {
+    border: 1px solid lightgrey;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    color: grey;
+}
+
+video {
+    width: 100%;
+}
+
+
+
+@media (max-width: 800px) {
+
+    * {
+        font-size: 14px;
+    }
+
+    .website-wrapper {
+        display: flex;
+        flex-direction: column;
+        margin: 0px 20px;
+        align-items: center;
+    }
+
+    .website-body-wrapper {
+        flex-direction: column;
+        gap: 64px;
+    }
+
+    .split-column-wrapper {
+        flex-direction: column;
+        margin-top: 148px;
+    }
+
+    .information-column {
+        width: 100%;
+    }
+
+    .website-project-wrapper {
+        width: 100%;
+        flex-direction: column;
+        max-width: 1000px;
+        gap: 40px;
+        padding: 148px 0px;
+    }
+
+    .column {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: fit-content;
+        /* border: 1px solid blue; */
+        padding: 0px;
+    }
+
+    .sticky-column {
+        position: relative;
+        height: fit-content;
+    }
+
+    .information-body-wrapper {
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+        height: 100dvh;
+        justify-content: center;
+        max-width: 500px;
+    }
+
+    .abbreviated-list-column {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+        /* border: 1px solid black; */
+    }
+
+    /* Case Study */
+    
+    .thumbnail {
+        width: 15%;
+    }
+
+}
