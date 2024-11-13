@@ -458,43 +458,6 @@
             {
                 "type": "text",
                 "content": "A series of printed matter designed while as a student of and a Teaching Assistant to Chris Kraus, author of <i>I Love Dick</i>. Designs were inspired by the class' unique pedagogy and the journalistic approach to personal writing that was taught by Kraus."
-            },
-            {
-                "type": "video",
-                "url": "assets/projects/sfpc/Aldon_Chen_Final.mp4",
-                "poster": "assets/projects/sfpc/ballads-cd-back.jpg",
-                "caption": "Introduction to AutoSpell, a generative typography system that synthesizes typography and cellular automata."
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/sfpc/postcards.jpg",
-                "alt": "ASCII postcards",
-                "caption": "Text-based code paradigms get reinterpreted as ASCII art."
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/sfpc/ballads-cd-back.jpg",
-                "alt": "Back of CD case for hypothetical music project, Ballads"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/ac-1/1.jpg",
-                "alt": "Documentation tablet for AC-1"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/sfpc/postcards.jpg",
-                "alt": "ASCII postcards"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/sfpc/ballads-cd-back.jpg",
-                "alt": "Back of CD case for hypothetical music project, Ballads"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/ac-1/1.jpg",
-                "alt": "Documentation tablet for AC-1"
             }
 
         ]
@@ -548,10 +511,6 @@
             {
                 "type": "text",
                 "content": "Project story is currently being edited in preparation for graduation. Please excuse the mess! :)"
-            },
-            {
-                "type": "text",
-                "content": "A visual identity concept for the School for Poetic Computation, an artist run school in New York that focuses on the intersection of art, code, hardware, and critical theory. By recontextualizing forms of code, the visual identity itself becomes a practice of poetic computation."
             },
             {
                 "type": "image",
@@ -619,16 +578,6 @@
             {
                 "type": "text",
                 "content": "Prompted by an assignment based on Bell Hook's idea of 'talking back', I decided to 'talk back' to my professor, Gary Kornblau, about how very seriously egregious it was that he decided to assign this work to be due the first day of class."
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/yin/process.jpg",
-                "alt": "Documentation tablet for AC-1"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/yin/progress.jpg",
-                "alt": "Documentation tablet for AC-1"
             }
 
         ]
@@ -681,16 +630,6 @@
             {
                 "type": "text",
                 "content": "In collaboration with designer, Nate Turley"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/yin/process.jpg",
-                "alt": "Documentation tablet for AC-1"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/yin/progress.jpg",
-                "alt": "Documentation tablet for AC-1"
             }
 
         ]
