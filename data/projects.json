@@ -7,57 +7,49 @@
         "heroMedia": [
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/1.jpg",
+                "url": "assets/projects/ac-1/cover-zoom.jpg",
                 "alt": "Documentation tablet for AC-1"
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/4.jpg"
+                "url": "assets/projects/ac-1/periodictable.jpg"
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/6.jpg"
+                "url": "assets/projects/ac-1/processbook-spine.jpg"
             }
         ],
         "media": [
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/1.jpg",
+                "url": "assets/projects/ac-1/cover-zoom.jpg",
                 "alt": "Documentation tablet for AC-1"
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/2.jpg"
+                "url": "assets/projects/ac-1/cover.jpg"
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/3.jpg"
+                "url": "assets/projects/ac-1/processframesstill.jpg"
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/4.jpg"
+                "url": "assets/projects/ac-1/periodictable.jpg"
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/5.jpg"
+                "url": "assets/projects/ac-1/literary.jpg"
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/oxygen.jpg"
-            },
-            {
-                "type": "image",
-                "url": "assets/projects/ac-1/6.jpg"
+                "url": "assets/projects/ac-1/processbook-spine.jpg"
             }
         ],
         "story": [
             {
                 "type": "text",
-                "content": "Project story is currently being edited in preparation for graduation. Please excuse the mess! :)"
-            },
-            {
-                "type": "text",
-                "content": "AC-1 offers an unassuming balance of confident, thoughtful sincerity. It is spare without being bleak."
+                "content": "AC-1 is a typeface that acknowledges that because typography inevitably shapes meaning, there is no such thing as a neutral or objective typeface. Instead of aiming for invisibility or sterility, AC-1 asserts modesty and clarity as its guiding principles, fostering a respectful and thoughtful collaboration between type and text."
             },
             {
                 "type": "image",
@@ -66,24 +58,22 @@
                 "caption": "AC-1 resists any rigid categorization, hybridizing features from multiple traditional type classifications. On one hand, touches of traditionally humanist features add an approachability that is critical of modernist sterility. On the other, its decided dedication to clarity opposes the excess and irony associated with postmodern styles."
             },
             {
-                "type": "image",
-                "url": "assets/projects/ac-1/oxygen.jpg",
-                "alt": "AC-1 demonstraction",
-                "caption": "AC-1 being used "
-            },
-            {
-                "type": "text",
-                "content": "AC-1 challenges"
+                "type": "video",
+                "url": "assets/projects/ac-1/processframes.mp4",
+                "poster": "assets/projects/ac-1/processframesstill.jpg",
+                "caption": "The process of developing AC-1 reveals the iterative exploration that shaped the typeface, oscillating between precision and human-centered clarity to achieve a design that respects both typographic function and the nuances of the text it serves."
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/2.jpg",
-                "alt": "Documentation tablet for AC-1"
+                "url": "assets/projects/ac-1/periodictable.jpg",
+                "alt": "Select humanist details, AC-1",
+                "caption": "AC-1 Periodic Table Specimen demonstrates the typeface’s ability to balance the systematic rigor found in mechanical and empirical modes of objectivity with human-centered clarity, repositioning precision as an act of thoughtful communication rather than neutral detachment."
             },
             {
                 "type": "image",
-                "url": "assets/projects/ac-1/3.jpg",
-                "alt": "Documentation tablet for AC-1"
+                "url": "assets/projects/ac-1/literary.jpg",
+                "alt": "Select humanist details, AC-1",
+                "caption": "AC-1 Literary Research Specimen demonstrates the typeface’s ability to engage with emotive and subjective literary content, offering clarity that respects and honors the text it serves."
             }
         ]
     },
