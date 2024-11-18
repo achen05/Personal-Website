@@ -172,10 +172,6 @@
         "story": [
             {
                 "type": "text",
-                "content": "Project story is currently being edited in preparation for graduation. Please excuse the mess! :)"
-            },
-            {
-                "type": "text",
                 "content": "A visual identity concept for the School for Poetic Computation (SFPC), an artist run school in New York that focuses on the intersection of art, code, hardware, and critical theory. SFPC revolves around the idea of 'poetic computation:' an alternative approach to programming that challenges the activity's traditional functions, uses, values, and assumptions. In doing this, poetic computation becomes a kind of cultural activism, recontextualizing code through critical use and misuse. <br><br> My visual identity concept aimed to give form to 'poetic computation' which I discovered could only be represented authentically through a visual identity that is, itself, a gesture of subversive programming."
             },
             {
@@ -280,10 +276,6 @@
         "story": [
             {
                 "type": "text",
-                "content": "Project story is currently being edited in preparation for graduation. Please excuse the mess! :)"
-            },
-            {
-                "type": "text",
                 "content": "This project reconsiders the comparator mirror, a mechanical device that was invented during the rise of optics in the 18th century and was used to assist in painting realistic depictions of life, within a contemporary context. Informed both by the history of optics and by postmodern theories of subjectivity, I wanted to explore bridging the gap between notions of mechanical objectivity with contemporary theories about the subjective nature of perception and reality. The result is a reinterpreted comparator mirror that positions the optical sciences as itself a romantic, poetic form of subjectivity and sight."
             },
             {
@@ -310,7 +302,7 @@
             },
             {
                 "type": "image",
-                "url": "assets/projects/comparator-mirror/tray.jpg",
+                "url": "assets/projects/comparator-mirror/frame.jpg",
                 "alt": "Comparator Mirror, Frame",
                 "caption": "The Frame secures all parts with magnetic points, and can be used without the Tray for oversized canvases."
             },
@@ -609,6 +601,36 @@
             {
                 "type": "text",
                 "content": "A series of printed matter designed while as a student of and a Teaching Assistant to Chris Kraus, author of <i>I Love Dick</i>. Designs were inspired by the class' unique pedagogy and the journalistic approach to personal writing that was taught by Kraus."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/observations.jpg",
+                "alt": "Docu",
+                "caption": "<i>Observations</i> is a zine composed of writing and image contributions by students in Kraus’ class in Spring 2023, Investigative Fiction / Non-Fiction. Each piece of writing takes the form of a list stating a sequence of ordinary observations. The design of the zine brings the banality of the writing to the forefront, giving the zine a self-awareness that turns its ordinary nature into the super-ordinary."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/observations-process.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "I designed <i>Observations</i> and produced copies for the class during some of my free time over roughly one week."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/investigations.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Investigations was a reading event organized by Kraus’ class during Spring 2023: Investigative Fiction / Non-Fiction, in which students performed a live reading of their writing from the class. As a student in the class, I designed posters that functioned both as a way to promote the event and as takeaway mementos for the students in the class."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/reading-live.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "I also took part in reading!"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/writing-under-from-and-beyond/portrait.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "For Chris Kraus’ class during Spring 2024, Writing: Investigation + Beyond, I knew it would be the last semester I would be a Teaching Assistant for the class. I noticed that during the class, some students would draw other students in sketchbooks. Inspired by the journalistic approach to writing that Chris had been teaching, I secretly reached out to these students to collaborate, gradually building a collection of everyone in the classroom over the semester that I used to design a small printed poster, Portrait of a Class, which we surprised Chris with during the last class session."
             }
 
         ]
