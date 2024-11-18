@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function setupModalFunctionality() {
     var modal = document.getElementById("myModal");
     var modalImg = document.getElementById("modalImage");
-    var captionText = document.getElementById("caption");
+    // var captionText = document.getElementById("caption");
 
     // Get all images with the class "modal-trigger"
     var images = document.querySelectorAll(".modal-trigger");
@@ -24,7 +24,7 @@ function setupModalFunctionality() {
         image.addEventListener("click", function() {
             modal.style.display = "flex";
             modalImg.src = this.src;
-            captionText.innerHTML = this.alt;
+            // captionText.innerHTML = this.alt;
         });
     });
 
