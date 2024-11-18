@@ -536,19 +536,19 @@
                 "type": "image",
                 "url": "assets/projects/sourceMaterial/issue03/installationsketch.jpg",
                 "alt": "Documentation tablet for AC-1",
-                "caption": "Planning for Issue 03: Safe Spaces release party installation."
+                "caption": "Planning for <i>Issue 03: Safe Spaces</i> release party installation."
             },
             {
                 "type": "image",
                 "url": "assets/projects/sourceMaterial/issue03/install3.jpg",
                 "alt": "Documentation tablet for AC-1",
-                "caption": "Members of the Source Material team installing fixture for the Issue 03: Safe Spaces release party."
+                "caption": "Members of the Source Material team installing fixture for the <i>Issue 03: Safe Spaces</i> release party."
             },
             {
                 "type": "image",
                 "url": "assets/projects/sourceMaterial/issue04/wall2.jpg",
                 "alt": "Documentation tablet for AC-1",
-                "caption": "Hand-painting wall graphics for the Issue 04: Faces release party."
+                "caption": "Hand-painting wall graphics for the <i>Issue 04: Faces</i> release party."
             }
 
         ]
@@ -594,10 +594,6 @@
 
         ],
         "story": [
-            {
-                "type": "text",
-                "content": "Project story is currently being edited in preparation for graduation. Please excuse the mess! :)"
-            },
             {
                 "type": "text",
                 "content": "A series of printed matter designed while as a student of and a Teaching Assistant to Chris Kraus, author of <i>I Love Dick</i>. Designs were inspired by the class' unique pedagogy and the journalistic approach to personal writing that was taught by Kraus."

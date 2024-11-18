@@ -62,6 +62,7 @@ body {
     flex-direction: column;
     height: fit-content;
     padding: 120px 0px;
+    gap: 12px;
     /* border: 1px solid blue; */
 }
 
@@ -145,6 +146,37 @@ body {
     padding: 0px 32px;
 }
 
+.name-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.name-button {
+    display: flex;
+    gap: 4px;
+}
+
+.logo {
+    width: 14px;
+    height: 14px;
+    box-sizing: border-box;
+}
+
+.title {
+    background-color: rgba(255, 255, 255, .8);
+    backdrop-filter: blur(10px);
+    /* Blur the background behind the modal */
+    -webkit-backdrop-filter: blur(10px);
+    /* For Safari */
+    color: grey;
+    border-radius: 4px;
+    padding: 4px 6px;
+    margin-left: 16px;
+    font-size: 12px;
+    border: 1px solid lightgrey;
+}
+
 .navigation-section {
     width: auto;
     display: flex;
@@ -152,7 +184,8 @@ body {
 }
 
 .navigation-button {
-    width: auto;
+    width: fit-content;
+    height: fit-content;
     font-size: 14px;
     background-color: rgba(255, 255, 255, .8);
     backdrop-filter: blur(10px);
@@ -619,9 +652,10 @@ video {
         display: flex;
         gap: 20px;
         flex-direction: column;
-        height: 100dvh;
-        justify-content: center;
+        height: fit-content;
+        justify-content: start;
         max-width: 500px;
+        padding-top: 148px;
     }
 
     .abbreviated-list-column {
