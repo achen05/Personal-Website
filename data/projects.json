@@ -344,17 +344,17 @@
             
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "url": "assets/projects/sourceMaterial/issue05/mapcover.jpg",
                 "alt": "Documentation tablet for AC-1"
             },
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "url": "assets/projects/sourceMaterial/issue05/iss05-3.jpg",
                 "alt": "Documentation tablet for AC-1"
             },
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "url": "assets/projects/sourceMaterial/issue05/iss05.jpg",
                 "alt": "Documentation tablet for AC-1"
             }
             
@@ -362,17 +362,127 @@
         "media": [
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "url": "assets/projects/sourceMaterial/issue05/mapcover.jpg",
                 "alt": "Documentation tablet for AC-1"
             },
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "url": "assets/projects/sourceMaterial/issue05/iss05-3.jpg",
                 "alt": "Documentation tablet for AC-1"
             },
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
+                "url": "assets/projects/sourceMaterial/issue05/iss05.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue05/iss05-1.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue05/group.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue05/nalgene.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue05/releaseparty.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/cover.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/cover2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/inner.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/inner2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/install.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/party.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/party2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/pile.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/team.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/wall.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/wall2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/install.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/install2.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/install3.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/keys.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/party.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/team.jpg",
+                "alt": "Documentation tablet for AC-1"
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/party1.jpg",
                 "alt": "Documentation tablet for AC-1"
             }
 
@@ -380,22 +490,73 @@
         "story": [
             {
                 "type": "text",
-                "content": "Project story is currently being edited in preparation for graduation. Please excuse the mess! :)"
+                "content": "Source Material is a publication founded and led by students at ArtCenter College of Design. It celebrates interdisciplinary collaboration at the College through a community-based publication every semester, featuring submitted work by students and alumni according to a theme/topic chosen by the Source Material team. <br><br>There were no strict roles within Source Material's team, which aspired towards a non-hierarchal model of organization. For brevity, I primarily contributed to the publication as a coeditor and designer from Summer 2022 to Fall 2023, which included designing and producing publications, ephemera, artifacts, social media materials, installations, and copywriting."
+            },
+            {
+                "type": "text",
+                "content": "Credits<br><br><i>Issue 03: Safe Spaces</i><br>Aldon Chen, Sean Nagao, Evelyn Luu, Rebecca Brown, Sahar Habashi, Jaiwon Lee, Nick Rheem.<br><br><i>Issue 04: Faces</i><br>Aldon Chen, Sean Nagao, Ruby Kim, Rebecca Brown, Sahar Habashi, Jaiwon Lee, Nick Rheem.<br><br><i>Issue 05: Ways of Mapping</i><br>Aldon Chen, Sean Nagao, Ruby Kim, Elliana Lee, Rebecca Brown, Nick Rheem."
             },
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
-                "alt": "Documentation tablet for AC-1"
+                "url": "assets/projects/sourceMaterial/issue05/iss05-3.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Example of publication: <i>Issue 05: Ways of Mapping</i>, which featured writing and maps drawn by students and alumni."
+            },
+            {
+                "type": "text",
+                "content": "<i>Issue 05: Ways of Mapping</i> introduction copy<br><br>From etchings on ancient clay tablets to Medieval atlases to Google Earth, maps have played an essential role in the way humanity has navigated, visualized, and represented the world we occupy. It is because of these functions that maps have also been historically utilized and deployed by dominant powers wanting to preserve their status quo by instantiating and reinforcing a certain dogmatic way of seeing the world.<br><br>For <i>Issue 05: Ways of Mapping</i>, Source Material collaborated with ArtCenter students and alumni to explore and examine how maps have influenced and continue to influence the way we witness the world around us. The publication stands as a document and a celebration of nuance and individual subjectivity, inviting new modes of cartography that emphasize each person’s singular experience of the world rather than how it’s presented to us."
             },
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
-                "alt": "Documentation tablet for AC-1"
+                "url": "assets/projects/sourceMaterial/issue04/cover2.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Example of publication: <i>Issue 04: Faces</i>, which featured writing and portraits drawn by students and alumni."
+            },
+            {
+                "type": "text",
+                "content": "<i>Issue 04: Faces</i> introduction copy<br><br>By expanding upon the timeless tradition of the self portrait, Source Material wants to inspire members of our community at ArtCenter to explore, examine, and reflect on the ways in which they perceive themselves and others. Issue 04 presents a collection of portraits, prose, poems, and prompts that document the unique ways in which identities materialize, transform, and interact in relation to one another."
             },
             {
                 "type": "image",
-                "url": "assets/projects/sourceMaterial/mapcover.jpg",
-                "alt": "Documentation tablet for AC-1"
+                "url": "assets/projects/sourceMaterial/issue03/keys.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Additional ephemera and artifacts were designed and produced to accompany the publication of each issue. Example shown: key keychains for <i>Issue 03: Safe Spaces</i>."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue05/mapcover.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Example of an additional ephemera: Geographical Anomalies Map to compliment <i>Issue 05: Ways of Mapping</i> ,and which reinterpreted the informational structure of traditional geographic maps."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue05/nalgene.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Example of an additional artifact: Nalgene water bottle to compliment <i>Issue 05: Ways of Mapping</i>, which appropriated one of the earliest maps of Los Angeles."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/party.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "To celebrate the release of each issue, we organized and designed a release party in conjunction with the publication. This included designing and producing signage, video projections, and various functional and interactive fixtures."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/installationsketch.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Planning for Issue 03: Safe Spaces release party installation."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue03/install3.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Members of the Source Material team installing fixture for the Issue 03: Safe Spaces release party."
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/sourceMaterial/issue04/wall2.jpg",
+                "alt": "Documentation tablet for AC-1",
+                "caption": "Hand-painting wall graphics for the Issue 04: Faces release party."
             }
 
         ]
