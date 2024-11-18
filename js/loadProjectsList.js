@@ -68,6 +68,7 @@ function generateProjectsHTML(data) {
         img.classList.add("project-gallery-images", "modal-trigger");
         img.src = image.url;
         img.alt = image.alt || '';
+        img.loading = "lazy";
         imagesDiv.appendChild(img);
       });
     projectDiv.appendChild(imagesDiv);
