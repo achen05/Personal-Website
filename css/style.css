@@ -656,6 +656,7 @@ video {
         justify-content: start;
         max-width: 500px;
         padding-top: 148px;
+        padding-bottom: 140px;
     }
 
     .abbreviated-list-column {
