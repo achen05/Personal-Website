@@ -13,7 +13,7 @@ function renderMediaSlideshow(media) {
             <img class="main-image modal-trigger" src="${media[0].url}" alt="${media[0].alt || 'Main Image'}">
             <div class="media-slideshow-buttons-container">
             <a class="button slideshow-button prev-btn"><</a>
-            <div class="slideshow-counter">
+            <div class="slideshow-counter slide-number">
                 <span id="slideshow-current">1</span> / <span id="slideshow-total">${media.length}</span>
             </div>
             <a class="button slideshow-button next-btn">></a>
