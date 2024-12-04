@@ -213,6 +213,54 @@
 
         ]
     },
+    "aesthetics-research-society": {
+        "title": "Aesthetics Research Society",
+        "type": "Visual Identity",
+        "description": "In-progress visual identity.",
+        "link": "case-study.html?project=aesthetics-research-society",
+        "heroMedia": [
+            {
+                "type": "image",
+                "url": "assets/projects/aesthetics-research-society/arswipig1.png",
+                "alt": ""
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/aesthetics-research-society/arswipig2.png",
+                "alt": ""
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/aesthetics-research-society/arswipig3.png",
+                "alt": ""
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "url": "assets/projects/aesthetics-research-society/arswipig1.png",
+                "alt": ""
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/aesthetics-research-society/arswipig2.png",
+                "alt": ""
+            },
+            {
+                "type": "image",
+                "url": "assets/projects/aesthetics-research-society/arswipig3.png",
+                "alt": ""
+            }
+
+        ],
+        "story": [
+            {
+                "type": "text",
+                "content": "Visual identity for the Aesthetics Research Society (ARS), a fictional organization I conceived to explore collective research practices in aesthetics. The organization's visual identity celebrates the mythology of visual culture, embracing its richness while critically engaging with the inherent absurdities of visual mythologies. This project is currently in progress."
+            }
+
+        ]
+    },
     "comparator-mirror": {
         "title": "Comparator Mirror",
         "type": "Object",
