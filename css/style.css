@@ -119,6 +119,7 @@ body {
 .information-body-wrapper {
     display: flex;
     gap: 32px;
+    width: 100%;
     max-width: 1000px;
     height: 100dvh;
     justify-content: center;
