@@ -21,17 +21,16 @@ body {
     font-size: 12px;
     background-color: #fff;
     color: #000;
-    margin: 200px 20px;
+    margin: 140px 16px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 60px;
+    /* gap: 60px; */
 }
 
 @media (min-width: 800px) {
     body {
-        margin-left: 80px; 
-        margin-right: 80px; 
+        margin: 140px 80px;
     }
 }
 
@@ -131,7 +130,7 @@ label {
     flex-direction: column;
     width: 100%;
     gap: 40px;
-    margin: 40px;
+    margin: 0px 40px;
 }
 
 @media (min-width: 800px) {
@@ -173,7 +172,7 @@ label {
 
 .paragraph-wrapper {
     position: relative;
-    max-height: 8em;
+    max-height: 10em;
     /* about 3 lines */
     overflow: hidden;
     transition: max-height 0.4s ease;
@@ -222,6 +221,7 @@ label {
 .tab-container {
     display: flex;
     gap: 16px;
+    margin-bottom: 20px;
 }
 
 .tab-button {
@@ -405,6 +405,7 @@ label {
     top: 20px;
     background-color: white;
     border-radius: 10px;
+    margin-bottom: 60px;
 }
 
 .header:hover {
@@ -466,6 +467,7 @@ label {
     flex-direction: column;
     gap: 8px;
     max-width: 440px;
+    margin-bottom: 60px;
 
 }
 
