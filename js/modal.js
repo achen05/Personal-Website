@@ -1,33 +1,26 @@
-document.addEventListener('DOMContentLoaded', function () {
-    // Load the modal HTML from an external file
-    fetch('html/modal.html')
-        .then(response => response.text())
-        .then(data => {
-            // Inject the modal HTML into the modal-container div
-            document.getElementById('modal-container').innerHTML = data;
+document.addEventListener('DOMContentLoaded', () => {
+  const modal = document.getElementById('modal');
+  const modalImg = document.getElementById('modal-img');
+  const modalClose = document.getElementById('modal-close');
 
-            // Modal HTML is now loaded; setup event delegation
-            setupModalFunctionality();
-        })
-        .catch(error => console.error('Error loading modal:', error));
+  // Attach to stable parent
+  const mediaContainer = document.getElementById('media');
+
+  mediaContainer.addEventListener('click', (e) => {
+    const target = e.target;
+    if (target.classList.contains('gallery-image')) {
+      modalImg.src = target.src;
+      modal.style.display = 'flex';
+    }
+  });
+
+  modalClose.addEventListener('click', () => {
+    modal.style.display = 'none';
+  });
+
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) {
+      modal.style.display = 'none';
+    }
+  });
 });
-
-function setupModalFunctionality() {
-    const modal = document.getElementById("myModal");
-    const modalImg = document.getElementById("modalImage");
-
-    // Attach a single event listener to the document body
-    document.body.addEventListener("click", function (event) {
-        // Check if the clicked element has the 'modal-trigger' class
-        if (event.target.classList.contains("modal-trigger")) {
-            modal.style.display = "flex";
-            modalImg.src = event.target.src; // Set modal image source
-        }
-
-        // Close the modal if the clicked element is the close button or outside the modal
-        if (event.target.classList.contains("close") || event.target === modal) {
-            modal.style.display = "none";
-        }
-    });
-}
-

@@ -1,0 +1,123 @@
+{
+    "education": [
+        {
+            "start": "2021-08",
+            "end": "2024-12",
+            "title": "BFA Graphic Design, With Distinction",
+            "organization": "ArtCenter College of Design",
+            "location": "Pasadena, CA",
+            "notes": "Valedictorian of Fall 2024"
+        },
+        {
+            "start": "2021-08",
+            "end": "2024-12",
+            "title": "BFA Graphic Design, With Distinction",
+            "organization": "ArtCenter College of Design",
+            "location": "Pasadena, CA",
+            "notes": "Valedictorian of Fall 2024"
+        }
+    ],
+    "work": [
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Design Intern",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        },
+        {
+            "start": "2021-08",
+            "end": "2024-12",
+            "title": "Design Support (Designer)",
+            "organization": "Numbers",
+            "location": "Austin, TX (Remote)"
+        },
+        {
+            "start": "2025-01",
+            "end": "2025-03",
+            "title": "Consultant / Brand Designer",
+            "organization": "Luma Labs (Luma AI)",
+            "location": "Palo Alto, CA",
+            "notes": "Various projects."
+        },
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Teaching Assistant",
+            "organization": "ArtCenter College of Design",
+            "location": "Pasadena, CA",
+            "notes": "Worked with"
+        }
+    ],
+    "awards": [
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Design Intern",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        },
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Design Intern",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        },
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Design Intern",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        }
+    ],
+    "clients": [
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Design Intern",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        },
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Design Intern",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        },
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Design Intern",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        }
+    ],
+    "involvement": [
+        {
+            "start": "2024-11",
+            "end": "2024-11",
+            "title": "Panel Speaker",
+            "organization": "AICAD Symposium",
+            "location": "Pasadena, CA",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        },
+        {
+            "start": "2024-11",
+            "end": "2024-11",
+            "title": "Volunteer",
+            "organization": "San Francisco Marin Food Bank",
+            "location": "San Francisco, CA",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        }
+    ]
+}

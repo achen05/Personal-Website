@@ -1,57 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-    <meta name="description" content="Aldon Chen">
-    <title>Aldon Chen</title>
-    <link rel="stylesheet" href="css/style.css">
-    <!-- Default Statcounter code for aldonchen.com http://aldonchen.com -->
-<script type="text/javascript">
-    var sc_project=13067068; 
-    var sc_invisible=1; 
-    var sc_security="ca71a46a"; 
-    </script>
-    <script type="text/javascript"
-    src="https://www.statcounter.com/counter/counter.js" async></script>
-    <noscript><div class="statcounter"><a title="Web Analytics"
-    href="https://statcounter.com/" target="_blank"><img class="statcounter"
-    src="https://c.statcounter.com/13067068/0/ca71a46a/1/" alt="Web Analytics"
-    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-    <!-- End of Statcounter Code -->
-</head>
-<body>
-    <div class="website-wrapper">
-        <div id="navigation-bar">
-            <div class="navigation-container">
-                <div class="name-container">
-                    <a href="index.html" class="button navigation-button name-button"> 
-                        Aldon Chen
-                    </a>
-                </div>
-        
-                <div class="navigation-section">
-                    <a href="work.html" class="button navigation-button"> 
-                        Work
-                    </a>
-                    <a href="information.html" class="button navigation-button"> 
-                        Information
-                    </a>
-                </div>
-            </div>
-        </div>
 
-        <div class="split-column-wrapper">
-            <div class="column sticky-column abbreviated-list-column">
-                <div id="abbreviated-projects-container"></div>   
-            </div>
-            <div class="column">
-                <div id="projects-container"></div>
-            </div>
-        </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <a href="index.html" class="header">Aldon Chen</a>
+  <div class="column-container">
+    <div class="meta-container column">
+      <p class="label">Meta</p>
+      <div id="meta"></div>
     </div>
-    <div id="modal-container"></div>
-    <script src="js/modal.js"></script>
-    <script src="js/loadProjectsList.js"></script>
+    <div class="media-container column">
+      <p class="label">Media</p>
+      <div id="media"></div>
+    </div>
+    <div class="related-container column">
+      <p class="label">Related</p>
+      <div id="related"></div>
+    </div>
+  </div>
+
+  <div id="modal" class="modal">
+    <span id="modal-close" class="close">&times;</span>
+    <img id="modal-img" class="modal-content">
+  </div>
+
+  <script src="js/renderwork.js"></script>
+  <script src="js/modal.js"></script>
 </body>
+
 </html>

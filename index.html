@@ -1,125 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-    <meta name="description" content="Aldon Chen">
-    <title>Aldon Chen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
     <link rel="stylesheet" href="css/style.css">
-    <!-- Default Statcounter code for aldonchen.com http://aldonchen.com -->
-<script type="text/javascript">
-    var sc_project=13067068; 
-    var sc_invisible=1; 
-    var sc_security="ca71a46a"; 
-    </script>
-    <script type="text/javascript"
-    src="https://www.statcounter.com/counter/counter.js" async></script>
-    <noscript><div class="statcounter"><a title="Web Analytics"
-    href="https://statcounter.com/" target="_blank"><img class="statcounter"
-    src="https://c.statcounter.com/13067068/0/ca71a46a/1/" alt="Web Analytics"
-    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-    <!-- End of Statcounter Code -->
 </head>
+
 <body>
-    <div class="website-wrapper">
-        <div id="navigation-bar">
-            <div class="navigation-container">
-                <div class="name-container">
-                    <a href="index.html" class="button navigation-button name-button"> 
-                        Aldon Chen
-                    </a>
-                </div>
-        
-                <div class="navigation-section">
-                    <a href="work.html" class="button navigation-button"> 
-                        Work
-                    </a>
-                    <a href="information.html" class="button navigation-button"> 
-                        Information
-                    </a>
-                </div>
-            </div>
+
+    <a href="index.html" class="header">Aldon Chen</a>
+
+    <div class="notice-container">
+        <p class="label">Notice</p>
+        <p class="notice-text">
+            New Website In-Progress!
+            <br>Please excuse the mess while I update the contents. In the meantime, please contact me for CV/etc. All current contents are provisional.
+        </p>
+    </div>
+
+    <div class="tab-container">
+        <button class="tab-button" id="btn-1">Projects</button>
+        <button class="tab-button" id="btn-2">Overview</button>
+        <button class="tab-button" id="btn-3">Notes</button>
+    </div>
+    <div class="column-container">
+        <div class="column tab-content" id="projects-column">
+            <p class="label main-label">Projects</p>
+            <div class="list-container" id="projects-list"></div>
         </div>
 
-            <div class="slideshow-wrapper">
-                <div class="slideshow-container">
-                    <div class="slide">
-                        <img src="assets/projects/ac-1/cover-zoom.jpg" alt="Documentation tablet for AC-1" class="slide-image modal-trigger">
-                        <div class="slide-information">
-                            <p class="project-title">AC-1</p>
-                            <p class="project-type">Typeface Design</p>
-                        </div>
-                        <a href="case-study.html?project=ac-1" class="button slide-button">View Full Project</a>
+        <div class="column tab-content" id="overview-column">
+            <p class="label main-label">Overview</p>
+            <div class="introduction-container">
+                <div class="introduction-text">
+                    <div class="paragraph-wrapper collapsed">
+                        <p id="expandable">
+                            Hi there, I’m Aldon. I’m based in Los Angeles and work primarily as a designer.
+                            <br><br>As a designer, I’ve worked with a broad range of organizations: publishing
+                            (semiotext(e), Dopamine Books), technology (Luma Labs), art and culture (Black Artist Research Space), to
+                            individual artist friends. My projects have included: visual identity development,
+                            typography and font design, art direction, books, and web design and development.
+                            <br><br>Additionally, I maintain an ongoing independent practice that includes writing
+                            (lots) and drawing.
+                            <br><br>I hold a BFA Graphic Design from ArtCenter College of Design, where I graduated
+                            valedictorian in 2024. Prior, I studied momentarily at Maryland Institute College of Art and
+                            School for Poetic Computation.
+                            <br><br>When I’m not working, I like to spend time with family and friends, taking long
+                            walks, and practicing my saxophone.
+                        </p>
+                        <div class="fade-out"></div>
                     </div>
-
-                    <div class="slide">
-                        <img src="assets/projects/aesthetics-research-society/arswipig1.png" alt="Documentation tablet for AC-1" class="slide-image modal-trigger">
-                        <div class="slide-information">
-                            <p class="project-title">Aesthetics Research Society</p>
-                            <p class="project-type">Visual Identity</p>
-                        </div>
-                        <a href="case-study.html?project=aesthetics-research-society" class="button slide-button">View Full Project</a>
-                    </div>
-
-                    <div class="slide">
-                        <img src="assets/projects/comparator-mirror/main.jpg" alt="Comparator Mirror, main view" class="modal-trigger">
-                        <div class="slide-information">
-                                <p class="project-title">Comparator Mirror</p>
-                            <p class="project-type">Object</p>
-                        </div>
-                        <a href="case-study.html?project=comparator-mirror" class="button slide-button">View Full Project</a>
-                    </div>
-
-                    <div class="slide">
-                        <img src="assets/projects/sourceMaterial/issue05/mapcover.jpg" alt="Geological Anomalies Map for Issue 05: Ways of Mapping" class="modal-trigger">
-                        <div class="slide-information">
-                                <p class="project-title">Source Material</p>
-                            <p class="project-type">Publication</p>
-                        </div>
-                        <a href="case-study.html?project=source-material" class="button slide-button">View Full Project</a>
-                    </div>
-
-                    <div class="slide">
-                        <img src="assets/projects/sfpc/ballads-cd-back.jpg" alt="CD case, backside, for the School for Poetic Computation" class="modal-trigger">
-                        <div class="slide-information">
-                                <p class="project-title">School for Poetic Computation</p>
-                            <p class="project-type">Visual Identity</p>
-                        </div>
-                        <a href="case-study.html?project=sfpc-identity" class="button slide-button">View Full Project</a>
-                    </div>
-
-                    <div class="slide">
-                        <img src="assets/projects/writing-under-from-and-beyond/portrait.jpg" alt="Comparator Mirror, main view" class="modal-trigger">
-                        <div class="slide-information">
-                                <p class="project-title">Writing Under, From, and Beyond</p>
-                            <p class="project-type">Print</p>
-                        </div>
-                        <a href="case-study.html?project=writing-under-from-and-beyond" class="button slide-button">View Full Project</a>
-                    </div>
-
-                    <div class="slide">
-                        <img src="assets/projects/yin/front.jpg" alt="Yin, front view" class="modal-trigger">
-                        <div class="slide-information">
-                                <p class="project-title">Yin</p>
-                            <p class="project-type">Sculpture</p>
-                        </div>
-                        <a href="case-study.html?project=yin" class="button slide-button">View Full Project</a>
-                    </div>
-    
-    
-    
-    
-    
-                    <div class="slideshow-button-container">
-                        <a class="button prev" onclick="changeSlide(-1)"><<a>
-                        <div id="slide-number" class="slide-number"></div>
-                        <a class="button next" onclick="changeSlide(1)">></a>
+                    <button class="introduction-toggle" id="toggle">[+] Expand Full Text</button>
+                </div>
+                <a href="cv.html" class="button">CV</a>
+                <div class="center-container">
+                    <p class="label inline-label">Contact</p>
+                    <div class="button-container">
+                        <a href="#" class="button fit-button">mail@aldonchen.com</a>
+                        <a href="#" class="button fit-button">Instagram</a>
                     </div>
                 </div>
             </div>
+
+            <div class="overview-item">
+                <img src="assets/projects/ac-1/cover-zoom.jpg" alt="" class="overview-item-image">
+                <p class="overview-item-type">Visual Identity</p>
+                <a href="#" class="overview-item-title">Aesthetics Research Society</a>
+                <p class="overview-item-article">Shown: Poster of Aesthetic Typologies</p>
+            </div>
+
+            <div class="overview-item">
+                <img src="assets/projects/aesthetics-research-society/arswipig1.png" alt="" class="overview-item-image">
+                <p class="overview-item-type">Visual Identity</p>
+                <a href="#" class="overview-item-title">Aesthetics Research Society</a>
+                <p class="overview-item-article">Shown: Poster of Aesthetic Typologies</p>
+            </div>
+
+            <div class="overview-item">
+                <img src="assets/projects/comparator-mirror/main.jpg" alt="" class="overview-item-image">
+                <p class="overview-item-type">Visual Identity</p>
+                <a href="#" class="overview-item-title">Aesthetics Research Society</a>
+                <p class="overview-item-article">Shown: Poster of Aesthetic Typologies</p>
+            </div>
+
+            <div class="overview-item">
+                <img src="assets/projects/sourceMaterial/issue05/mapcover.jpg" alt="" class="overview-item-image">
+                <p class="overview-item-type">Visual Identity</p>
+                <a href="#" class="overview-item-title">Aesthetics Research Society</a>
+                <p class="overview-item-article">Shown: Poster of Aesthetic Typologies</p>
+            </div>
+
+            <div class="overview-item">
+                <img src="assets/projects/sfpc/ballads-cd-back.jpg" alt="" class="overview-item-image">
+                <p class="overview-item-type">Visual Identity</p>
+                <a href="#" class="overview-item-title">Aesthetics Research Society</a>
+                <p class="overview-item-article">Shown: Poster of Aesthetic Typologies</p>
+            </div>
+
+            <div class="overview-item">
+                <img src="assets/projects/writing-under-from-and-beyond/portrait.jpg" alt="" class="overview-item-image">
+                <p class="overview-item-type">Visual Identity</p>
+                <a href="#" class="overview-item-title">Aesthetics Research Society</a>
+                <p class="overview-item-article">Shown: Poster of Aesthetic Typologies</p>
+            </div>
+
+            <div class="overview-item">
+                <img src="assets/projects/yin/front.jpg" alt="" class="overview-item-image">
+                <p class="overview-item-type">Visual Identity</p>
+                <a href="#" class="overview-item-title">Aesthetics Research Society</a>
+                <p class="overview-item-article">Shown: Poster of Aesthetic Typologies</p>
+            </div>
+
+        </div>
+
+        <div class="column tab-content" id="notes-column">
+            <p class="label main-label">Notes</p>
+            <div class="list-container" id="notes-list"></div>
+        </div>
     </div>
-    <div id="modal-container"></div>
-    <script src="js/slide-show.js"></script>
-    <script src="js/modal.js"></script>
+    <script src="js/accordion.js"></script>
+    <script src="js/loadLists.js"></script>
+    <script src="js/tab.js"></script>
 </body>
+
 </html>

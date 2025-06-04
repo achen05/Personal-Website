@@ -1,0 +1,767 @@
+{
+  "work": [
+    {
+      "slug": "ac-1",
+      "id": "ac-1",
+      "type": "01",
+      "meta": {
+        "title": "AC-1",
+        "date": "2024",
+        "client": "Student",
+        "type": "Project",
+        "media": "Typeface"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/ac-1/cover-zoom.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/ac-1/cover.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/ac-1/processframesstill.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/ac-1/periodictable.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/ac-1/literary.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/ac-1/processbook-spine.jpg"
+        },
+        {
+          "type": "text",
+          "text": "AC-1 is a typeface that acknowledges that because typography inevitably shapes meaning, there is no such thing as a neutral or objective typeface. Instead of aiming for invisibility or sterility, AC-1 asserts modesty and clarity as its guiding principles, fostering a respectful and thoughtful collaboration between type and text."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/ac-1/humanisttouches.jpg",
+          "text": "AC-1 resists any rigid categorization, hybridizing features from multiple traditional type classifications. On one hand, touches of traditionally humanist features add an approachability that is critical of modernist sterility. On the other, its decided dedication to clarity opposes the excess and irony associated with postmodern styles."
+        },
+        {
+          "type": "video",
+          "src": "assets/projects/ac-1/processframes.mp4",
+          "poster": "assets/projects/ac-1/processframesstill.jpg",
+          "text": "The process of developing AC-1 reveals the iterative exploration that shaped the typeface, oscillating between precision and human-centered clarity to achieve a design that respects both typographic function and the nuances of the text it serves."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/ac-1/periodictable.jpg",
+          "text": "AC-1 Periodic Table Specimen demonstrates the typeface\u2019s ability to balance the systematic rigor found in mechanical and empirical modes of objectivity with human-centered clarity, repositioning precision as an act of thoughtful communication rather than neutral detachment."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/ac-1/literary.jpg",
+          "text": "AC-1 Literary Research Specimen demonstrates the typeface\u2019s ability to engage with emotive and subjective literary content, offering clarity that respects and honors the text it serves."
+        }
+      ],
+      "related": []
+    },
+    {
+      "slug": "sfpc-identity",
+      "id": "sfpc-identity",
+      "type": "01",
+      "meta": {
+        "title": "School for Poetic Computation",
+        "date": "2024",
+        "client": "Student",
+        "type": "Project",
+        "media": "Visual Identity"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/postcards.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/schedule.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/tickets.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/letterhead.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/businesscards.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/ballads-cd-back.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/ballads-cd-front.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/ballads1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/ballads2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/ballads3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/AA1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sfpc/AA2.jpg"
+        },
+        {
+          "type": "text",
+          "text": "A visual identity concept for the School for Poetic Computation (SFPC), an artist-run school in New York that focuses on the intersection of art, code, hardware, and critical theory. SFPC revolves around the idea of 'poetic computation:' an alternative approach to programming that challenges the activity's traditional functions, uses, values, and assumptions. In doing this, poetic computation becomes a kind of cultural activism, recontextualizing code through critical use and misuse. <br><br> My visual identity concept aimed to give form to 'poetic computation' which I discovered could only be represented authentically through a visual identity that is, itself, a gesture of subversive programming."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sfpc/postcards.jpg",
+          "text": "The project began with one of, if not the, most ubiquitous forms of code: text. I appropriated text-based code in order to create ASCII art."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sfpc/2.jpg",
+          "text": "Hand-drawn ASCII art became one form of the visual identity."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sfpc/ballads-cd-front.jpg",
+          "text": "This strategy of appropriation was translated into other forms of code, such as early programmable music technology."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sfpc/ballads1.jpg",
+          "text": "Appropriating early programmed music into posters."
+        },
+        {
+          "type": "video",
+          "src": "assets/projects/sfpc/Aldon_Chen_Final.mp4",
+          "poster": "assets/projects/sfpc/ballads-cd-back.jpg",
+          "text": "The project also explored code in the form of abstract models, such as cellular automata. Using Processing, I programmed AutoSpell, a generative typography system that synthesizes typography and the Game of Life, a type of cellular automata."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sfpc/AA1.jpg",
+          "text": "AutoSpell was used to capture a moment of typography and imagery interacting with a live cellular automata simulation."
+        }
+      ],
+      "related": []
+    },
+    {
+      "slug": "aesthetics-research-society",
+      "id": "aesthetics-research-society",
+      "type": "01",
+      "meta": {
+        "title": "Aesthetics Research Society",
+        "date": "2024",
+        "client": "Student",
+        "type": "Project",
+        "media": "Visual Identity"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/aesthetics-research-society/arswipig1.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/aesthetics-research-society/arswipig2.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/aesthetics-research-society/arswipig3.png"
+        },
+        {
+          "type": "text",
+          "text": "Visual identity for the Aesthetics Research Society (ARS), a fictional organization I conceived to explore collective research practices in aesthetics. The organization's visual identity celebrates the mythology of visual culture, embracing its richness while critically engaging with the inherent absurdities of visual mythologies. This project is currently in progress."
+        }
+      ],
+      "related": []
+    },
+    {
+      "slug": "comparator-mirror",
+      "id": "834382",
+      "type": "01",
+      "meta": {
+        "title": "Comparator Mirror",
+        "date": "2023",
+        "client": "Personal",
+        "type": "Project",
+        "media": "Object"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "This project reconsiders the comparator mirror, a mechanical device that was invented during the rise of optics in the 18th century and was used to assist in painting realistic depictions of life, within a contemporary context. Informed both by the history of optics and by postmodern theories of subjectivity, I wanted to explore bridging the gap between notions of mechanical objectivity with contemporary theories about the subjective nature of perception and reality. The result is a reinterpreted comparator mirror that positions the optical sciences as itself a romantic, poetic form of subjectivity and sight."
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/projects/comparator-mirror/main.jpg"
+            },
+            {
+              "src": "assets/projects/comparator-mirror/cover.jpg"
+            },
+            {
+              "src": "assets/projects/comparator-mirror/open.jpg"
+            },
+            {
+              "src": "assets/projects/comparator-mirror/tray.jpg"
+            },
+            {
+              "src": "assets/projects/comparator-mirror/frame.jpg"
+            },
+            {
+              "src": "assets/projects/comparator-mirror/sides.jpg"
+            },
+            {
+              "src": "assets/projects/comparator-mirror/disagram.jpg"
+            }
+          ]
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/comparator-mirror/main.jpg",
+          "text": "My comparator mirror features a modular, symmetrical design, inspired by the symmetries of light (reflection, refraction, etc.) and lends it a tone borrowed from historical associations between symmetry, geometry, and divinity. "
+        },
+        {
+          "type": "text",
+          "text": "It consists of three distinct parts: the Cover, the Tray, and the Frame, each of which functions in the alignment and layering of images, transforming perception into a creative process."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/comparator-mirror/cover.jpg",
+          "text": "The Cover displays a diagram with assembly instructions and doubles as a magnetic backboard."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/comparator-mirror/tray.jpg",
+          "text": "The Tray holds the mirror and spare magnets, convertible to a flat canvas surface."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/comparator-mirror/frame.jpg",
+          "text": "The Frame secures all parts with magnetic points, and can be used without the Tray for oversized canvases."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/comparator-mirror/progress.jpg",
+          "text": "I fabricated the comparator mirror using clear acrylic, which gave the rasterized graphics on the object a luminosity that speaks to light\u2019s poetic and transcendent qualities."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/comparator-mirror/prototype.jpg",
+          "text": "In the early phases of the project, I experimented with prototypes to test different forms the comparator mirror could take."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/comparator-mirror/disagram.jpg",
+          "text": "Designed a comparator mirror diagram as part of the project, detailing the way light interacts with the optics of the comparator mirror."
+        }
+      ],
+      "related": [
+        {"id": "094887"}
+      ]
+    },
+    {
+      "slug": "source-material",
+      "id": "source-material",
+      "type": "01",
+      "meta": {
+        "title": "Source Material",
+        "date": "2023",
+        "client": "ArtCenter",
+        "type": "Project",
+        "media": "Publication"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue05/mapcover.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue05/iss05-3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue05/iss05.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue05/iss05-1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue05/group.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue05/nalgene.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue05/releaseparty.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/cover.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/cover2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/inner.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/inner2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/install.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/party.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/party2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/pile.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/team.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/wall.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue04/wall2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue03/install.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue03/install2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue03/install3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue03/keys.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue03/party.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue03/team.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/sourceMaterial/issue03/party1.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Source Material is a publication founded and led by students at ArtCenter College of Design. It celebrates interdisciplinary collaboration at the College through a community-based publication every semester, featuring submitted work by students and alumni according to a theme/topic chosen by the Source Material team. <br><br>There were no strict roles within Source Material's team, which aspired towards a non-hierarchical model of organization. For brevity, I primarily contributed to the publication as a coeditor and designer from Summer 2022 to Fall 2023, which included designing and producing publications, ephemera, artifacts, social media materials, installations, and copywriting."
+        },
+        {
+          "type": "text",
+          "text": "Credits<br><br><i>Issue 03: Safe Spaces</i><br>Aldon Chen, Sean Nagao, Evelyn Luu, Rebecca Brown, Sahar Habashi, Jaiwon Lee, Nick Rheem.<br><br><i>Issue 04: Faces</i><br>Aldon Chen, Sean Nagao, Ruby Kim, Rebecca Brown, Sahar Habashi, Jaiwon Lee, Nick Rheem.<br><br><i>Issue 05: Ways of Mapping</i><br>Aldon Chen, Sean Nagao, Ruby Kim, Elliana Lee, Rebecca Brown, Nick Rheem."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue05/iss05-3.jpg",
+          "text": "Example of publication: <i>Issue 05: Ways of Mapping</i>, which featured writing and maps drawn by students and alumni."
+        },
+        {
+          "type": "text",
+          "text": "<i>Issue 05: Ways of Mapping</i> introduction copy<br><br>From etchings on ancient clay tablets to Medieval atlases to Google Earth, maps have played an essential role in the way humanity has navigated, visualized, and represented the world we occupy. It is because of these functions that maps have also been historically utilized and deployed by dominant powers wanting to preserve their status quo by instantiating and reinforcing a certain dogmatic way of seeing the world.<br><br>For <i>Issue 05: Ways of Mapping</i>, Source Material collaborated with ArtCenter students and alumni to explore and examine how maps have influenced and continue to influence the way we witness the world around us. The publication stands as a document and a celebration of nuance and individual subjectivity, inviting new modes of cartography that emphasize each person\u2019s singular experience of the world rather than how it\u2019s presented to us."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue04/cover2.jpg",
+          "text": "Example of publication: <i>Issue 04: Faces</i>, which featured writing and portraits drawn by students and alumni."
+        },
+        {
+          "type": "text",
+          "text": "<i>Issue 04: Faces</i> introduction copy<br><br>By expanding upon the timeless tradition of the self portrait, Source Material wants to inspire members of our community at ArtCenter to explore, examine, and reflect on the ways in which they perceive themselves and others. Issue 04 presents a collection of portraits, prose, poems, and prompts that document the unique ways in which identities materialize, transform, and interact in relation to one another."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue03/keys.jpg",
+          "text": "Additional ephemera and artifacts were designed and produced to accompany the publication of each issue. Example shown: key keychains for <i>Issue 03: Safe Spaces</i>."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue05/mapcover.jpg",
+          "text": "Example of an additional ephemera: Geographical Anomalies Map to complement <i>Issue 05: Ways of Mapping</i>, and which reinterpreted the informational structure of traditional geographic maps."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue05/nalgene.jpg",
+          "text": "Example of an additional artifact: Nalgene water bottle to complement <i>Issue 05: Ways of Mapping</i>, which appropriated one of the earliest maps of Los Angeles."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue03/party.jpg",
+          "text": "To celebrate the release of each issue, we organized and designed a release party in conjunction with the publication. This included designing and producing signage, video projections, and various functional and interactive fixtures."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue03/installationsketch.jpg",
+          "text": "Planning for <i>Issue 03: Safe Spaces</i> release party installation."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue03/install3.jpg",
+          "text": "Members of the Source Material team installing fixture for the <i>Issue 03: Safe Spaces</i> release party."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/sourceMaterial/issue04/wall2.jpg",
+          "text": "Hand-painting wall graphics for the <i>Issue 04: Faces</i> release party."
+        }
+      ],
+      "related": []
+    },
+    {
+      "slug": "writing-under-from-and-beyond",
+      "id": "writing-under-from-and-beyond",
+      "type": "01",
+      "meta": {
+        "title": "Writing Under, From, and Beyond",
+        "date": "2023",
+        "client": "Student",
+        "type": "Project",
+        "media": "Various Print"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/writing-under-from-and-beyond/portrait.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/writing-under-from-and-beyond/investigations.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/writing-under-from-and-beyond/observations.jpg"
+        },
+        {
+          "type": "text",
+          "text": "A series of printed matter designed while as a student of and a Teaching Assistant to Chris Kraus, author of <i>I Love Dick</i>. Designs were inspired by the class' unique pedagogy and the journalistic approach to personal writing that was taught by Chris."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/writing-under-from-and-beyond/observations.jpg",
+          "text": "<i>Observations</i> is a zine composed of writing and image contributions by students in Kraus\u2019 class in Spring 2023, Investigative Fiction / Non-Fiction. Each piece of writing takes the form of a list stating a sequence of ordinary observations. The design of the zine brings the banality of the writing to the forefront, giving the zine a self-awareness that turns its ordinary nature into the super-ordinary."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/writing-under-from-and-beyond/observations-process.jpg",
+          "text": "I designed <i>Observations</i> and produced copies for the class during some of my free time over roughly one week."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/writing-under-from-and-beyond/investigations.jpg",
+          "text": "Investigations was a reading event organized by Chris\u2019 class during Spring 2023: Investigative Fiction / Non-Fiction, in which students performed a live reading of their writing from the class. As a student in the class, I designed posters that functioned both as a way to promote the event and as takeaway mementos for the students in the class."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/writing-under-from-and-beyond/reading-live.jpg",
+          "text": "I also took part in reading!"
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/writing-under-from-and-beyond/portrait.jpg",
+          "text": "For Chris Kraus\u2019 class during Spring 2024, Writing: Investigation + Beyond, I knew it would be the last semester I would be a Teaching Assistant for the class. I noticed that during the class, some students would draw other students in sketchbooks. Inspired by the journalistic approach to writing that Chris had been teaching, I secretly reached out to these students to collaborate, gradually building a collection of everyone in the classroom over the semester that I used to design a small printed poster, <i>Portrait of a Class</i>, which we surprised Chris with during the last class session.<br><br><i>Portrait of a Class</i> illustration credits: Katheryn Oh, Neko Ohnsman, Evelyn Leon."
+        }
+      ],
+      "related": []
+    },
+    {
+      "slug": "yin",
+      "id": "yin",
+      "type": "01",
+      "meta": {
+        "title": "Yin",
+        "date": "2023",
+        "client": "",
+        "Duration": "",
+        "type": "Project",
+        "media": "Sculpture"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/yin/front.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/yin/quarter.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/yin/side.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/yin/detail.jpg"
+        },
+        {
+          "type": "text",
+          "text": "<i>Yin</i> is a sculptural object. It was made during a time in my life when I became engrossed in ideas about incompleteness, surrender, and indeterminacy. Because of this, I can't quite say what <i>Yin</i> is about or what it means exactly. I don't think I want to articulate it either. Instead, I would like to offer strictly material details about <i>Yin</i>."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/yin/process.jpg",
+          "text": "In the early phases of the project, I experimented with slotted cardboard panels in order to test the integrity of various forms."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/yin/progress.jpg",
+          "text": "I meticulously fabricated <i>Yin</i> entirely out of clear cast acrylic sheets, securing the sculpture using a combination of slotting and liquid acrylic."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/yin/front.jpg",
+          "text": "Through a combination of both mechanical and manual sanding by hand, I was able to apply an uneven frosted finish on the material that diffused light, giving <i>Yin</i> a slightly weathered appearance."
+        }
+      ],
+      "related": []
+    },
+    {
+      "slug": "to-gary-kornblau",
+      "id": "to-gary-kornblau",
+      "type": "01",
+      "meta": {
+        "title": "To Gary Kornblau, From Aldon Chen",
+        "date": "2023",
+        "client": "Student",
+        "type": "Project",
+        "media": "Writing"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/to-gary-kornblau/ig2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/to-gary-kornblau/ig3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/to-gary-kornblau/ig4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/to-gary-kornblau/ig5.jpg"
+        },
+        {
+          "type": "text",
+          "text": "Prompted by an assignment based on Bell Hook's idea of 'talking back', I decided to 'talk back' to my professor, Gary Kornblau, about how very seriously egregious it was that he decided to assign this work to be due the first day of class. Printed and personally given to Gary."
+        },
+        {
+          "type": "text",
+          "text": "Gary,<br><br>As per your email earlier today, three days before the summer semester is about to begin and regarding a pre-class assignment to be completed by the first day of class, I\u2019ve decided to respond with this writing. I\u2019ll begin by stating that I, in no uncertain terms, absolutely hate it when instructors assign work to their students over the break. Doing such an abominable thing is a surefire way to make some of their students such as myself seriously consider dropping their class before it even starts.<br><br> Breaks are special periods of time when some lucky students like me are afforded the invaluable privilege of finally indulging in all the unproductive dysfunction that we suppressed for the duration of the previous semester; of allowing ourselves to think and do nothing in particular. This is a sacred interim that I personally like to spend living like the ordinary loser that I\u2019m not allowed to be at any other time. I like to take ten minute self-care walks from my apartment to the nearby Costco food court (the one I\u2019m currently writing from at this very moment) where I like to eat cheap pizza and ice cream then wallow in self hatred the next morning when I notice I\u2019d been gradually gaining weight from doing this so often. I like to go on Grindr with a faceless profile for hours at a time, trying to see if my ex-boyfriend is still on the app because leaving him wasn\u2019t enough to salve the anger I felt towards his betrayal and so I still have a horrible, vengeful bone in me that takes a uniquely cruel pleasure in seeing him on the app and thinking to myself: <I>what could be more pathetic than being active on Grindr?</I> before I realize that the question is spitting back at my face and I delete the app. I like to go on first dates with men who are too old for me because I never have to pay and because they\u2019ll flatter my ego in ways that I know are fake but I\u2019ll suck it all up like fast good and afterwards I could just say \u201cgoodbye\u201d and practically disappear. Are you beginning to understand why it is of the utmost importance that these breaks from school remain uninterrupted? Every break for me as a student at ArtCenter is three weeks, give or take a few days, of just wasting away like this because savoring my youth means believing that time comes in an infinite supply. It\u2019s three weeks of having better things to do\u2014I know, but also knowing that I could just just say \u201cno\u201d to all of them and few things are as liberating as the power of refusal.<br><br> So I must express that when I received your email a few hours ago, I wanted to say to you: <I>How dare you disturb this sanctity of mine, </I>because now I won\u2019t be able to stop thinking about what I\u2019ll do for your assignment and how. The mere knowledge of your email will inevitably ruin the last three days of the break\u2014the precious and last three days of my break\u2014by infiltrating its solitude like an infection with an irresistible and unyielding itch.<br><br> I didn\u2019t even try to feign ignorance. I spent the next several hours letting the assignment fester.<br><br> Your email, addressed to the entire class, told us that for our pre-class assignment, we are to \u201ctalk back\u201d the way Bell Hooks wanted to in the essay you\u2019d attached alongside your message. <I>Talk back? I could do that. Easy.</I> In fact, my first idea emerged within mere minutes almost reflexively and I knew that you, Gary Kornblau, would be the authority I\u2019d talk back to. I would design a big, giant poster showcasing the contents of your email for everyone to see which I\u2019d then write over with a fat red marker in big, capital letters the words: \u201cDO NOT GIVE ME FUCKING HOMEWORK OVER BREAK.\u201d But when my initial incitement towards your email subsided some ten minutes later, I began worrying that my idea would be too cliche, too on the nose, the embarrassing spectacle of a college student who believes that they\u2019re clever, intelligent, and most importantly, radically <I>different</I> because they decided to do something self-referential, the rite of passage for obnoxious pseudo-intellectuals, first-year philosophy majors, listeners of experimental sound art, or worse: self-aggrandizing political \u201cartists.\u201d I\u2019d be the person that\u2019d make other students roll their eyes because they know it\u2019s all vanity. That\u2019s one of the problems with talking back in the 21st century, an era utterly subsumed in a culture of narcissism  hiding underneath the more virtuous guise of individualism. Is it really any surprise that in a culture which values individual difference and determinacy, people would eventually find ways to manufacture expressions of it? It only seemed a matter of time until expressions of radicality were sucked up by the machinery, adopted not out of necessity or any real desire for genuine change and difference, but out of the superficial pursuit for the kind of distinction that comes from sheer novelty. The consequences of this aestheticization of radicality make it so that the mere performance of radicality is more important than what it promises, if anything. It\u2019s one of the reasons there\u2019s been some preaching around the block that counterculture is dead. Punk has been transmogrified into an ugly aesthetic object that suburban teens buy with the hopes of expressing the rebellious spirit of a movement that died precisely because of its aestheticization, its commodification. Gay men cruising for illicit and anonymous sex has been overshadowed in the mainstream discourse by Pride parades overrun with rainbow sticker flaunting corporations trying to tell all their customers that they, because companies themselves are people surely, are on the right side of history. Talking back has become Talking Back\u2122.<br><br> I also thought about doing something that wasn\u2019t self-referential at all. I thought maybe I\u2019d talk back to the typical villains, I don\u2019t know\u2026like capitalism or neoliberalism or something. That\u2019s what I\u2019m supposed to talk back to right? But things like that are so abstract and so all-encompassing, I barely even know what they mean; and how and I am supposed to talk back to something when I don\u2019t even entirely understand what it is that I\u2019m talking back to? Is that really talking back? I thought that just meant spewing gibberish, so then I thought maybe I\u2019d talk back to something more concrete, maybe something like racism or xenophobia. I haven\u2019t personally faced any of that in Los Angeles but hasn\u2019t there been an alarming rate of violent crimes committed against Asian people in the Bay Area? Maybe I could \u201ctalk back\u201d to that. But who, exactly, would I be talking back to? The enactors of such violence? As if they\u2019d listen in the first place. The culture at large? Preaching to the liberal choir surely. The people governing the Bay Area? I don\u2019t even live there anymore. I just read about it on the front-page of reddit or heard about it from my mother who still lives there, so I just end up worrying because what else is there for me to do really when I\u2019m four hundred miles away? Stripped of all the exigencies of these events, of the essential and immediate context that distinguishes talking back from merely talking\u2014to myself, to a notebook, to imaginary interlocutors, to no one. Talking isn\u2019t worthless, it\u2019s just not talking <i>back</I>.<br><br> Talking back would be talking back to someone who would hear me, and I still liked the idea of talking back to you which led me to the brilliant idea that I just wouldn\u2019t do your assignment. I mean throughout all this time, not even for one moment, did I ever actually want to do your assignment and doing nothing would truly be in the spirit of talking back to it; talking back to you. Furthermore, I think the people who are <I>really</I> talking back right now are the ones who aren\u2019t talking at all; the people who don\u2019t have social media or even an internet connection\u2014the real Neo-Luddites; the people who left the urban landscape to form small and exclusive communities in the middle of bumfuck nowhere like the lesbians in the Landdyke movement; the people who are rich enough or defeated enough to simply not care. These people, I believe, are the ones who have found their way to contentment, one of the requirements of which is feeling no real need to interject at all; to talk back. But I figured that if everyone else in the class showed up with work to show, as in materialized forms of talking back, and I just showed up with nothing, it wouldn\u2019t matter whatever intentioned I had for my lack of work, I\u2019d just end up looking like a pretentious idiot trying to justify their slack under the guise of <I>it\u2019s art!</I> Nonetheless, I want you to know that <I>not</I> doing your assignment would be my ideal response but I don\u2019t feel ready to risk making a fool of myself.<br><br> All that being said brings me to this writing, the reason for it. I love writing as a medium: thoughts compressed into a material object that I could just hurl at someone from across the room, the state, the world. It\u2019s not like verbally talking back, there\u2019s no nervous stuttering conditioned from the anxiety of confrontation, no attempted regurgitating of past thoughts that I swear I could recall at any time except during the moments I need them most, no racing to come up with arguments on the fly which I tend to lose, I think because I\u2019ve always been more of a builder or a craftsman\u2014slow and sound. But the thing I <i>really</I> love about writing, the reason it\u2019s so perfect for this assignment, is because I don\u2019t think writing really does much, if it does anything at all. <br><br> If the essence of talking back is a form of attack, the written word is but one of the many weapons held in its seemingly ever-increasing and all-accessible arsenal; occasionally useful or entertaining in the right hands but more often taken and wielded by people who don\u2019t know how to use it effectively, have it pointed at the wrong target, have overestimated its potential for utility, or simply picked it up because it\u2019s more interesting than nothing, or really because it\u2019s a way of making nothing into an activity. Writing is doing nothing, which is precisely what I want to do. <br><br>Aldon"
+        }
+      ],
+      "related": []
+    },
+    {
+      "slug": "object-lessons",
+      "id": "object-lessons",
+      "type": "01",
+      "meta": {
+        "title": "Object Lessons",
+        "date": "2024",
+        "client": "Student",
+        "type": "Project",
+        "media": "Zine"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/object-lessons/main.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/object-lessons/back.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/object-lessons/open.jpg"
+        },
+        {
+          "type": "text",
+          "text": "I worked in collaboration with designer, Nate Turley, to edit, design, and produce a zine titled <i>Object Lessons</i> for Arden Stern's class, Life Without Objects. Composed of essays written by peers in the class, <i>Object Lessons</i> examines objects and object categories in relation to critical ideas regarding objecthood and object-ness."
+        },
+        {
+          "type": "video",
+          "src": "assets/projects/object-lessons/video1.mp4",
+          "poster": "assets/projects/object-lessons/main.jpg",
+          "text": "Prongs were used to bind the zine, giving it an improvisational, low-production tone that reflects the DIY, spontaneous context it was designed for. Prongs also allowed for a unique spread that allowed for two, three, or four pages to be seen simultaneously."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/object-lessons/illustrations.jpg",
+          "text": "Illustrations were drawn according to the selected objects examined by the contributors of the zine."
+        },
+        {
+          "type": "image+text",
+          "src": "assets/projects/object-lessons/copies.jpg",
+          "text": "An extremely limited quantity of copies were produced for the class exclusively."
+        }
+      ],
+      "related": []
+    }
+  ],
+  "notes": [
+    {
+      "slug": "title-placeholder-note",
+      "id": "098281",
+      "type": "02",
+      "meta": {
+        "title": "Notes on Cormac McCarthy's The Road",
+        "date": "2025/04",
+        "type": "Note"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "Respectfully, and with grace, I felt a kind a sour twang at McCarthy’s use of the now-archaic word “catamites.” Of course, to any reasonable and good faith interpretation, McCarthy’s usage of the word was meant to function as a condemnation of the sexual violence and enslavement of boys by the “bad men” of a depraved, post-apocalyptic world. But McCarthy, as any serious writer must be, wielded his words with a careful and deliberate precision. By the time of <i>The Road</i>, he’d long already earned his place among the pantheon of Great American Novelists. It’s knowing this, I suppose, that made me suspicious of this particular instance of the word. “Catamites” carried with it a long and heavy history of homosexuality being conflated with predatory forms of desire and sexual violence, falsely tethered to rape, pedophilia, and moral rot. Its invocation in the time of the book’s 2006 publication and again now in the 2025 that I’d read it, seemed to tug at a kind of tired and dangerous equivalence that I’ve learned to fear—even in gayed-out San Francisco or the more diffused, entropic openness of Los Angeles.<br><br>280 pages of sanctifying the love between father and son—against all the witnessed atrocities of a scorched planet that was always threatening to blacken their bond to char—only for its sacredness to be undercut on the very next page, 281, by a family, conveniently armed with a shotgun and more ammunition than one could need in world where having any gun at all was the ultimate shield, and whom, decided out of some holy charity, to take in the newly orphaned boy. There’s an unsatisfying asymmetry to it, the hopeful interpretation—the one McCarthy himself would probably prefer—which asks the reader to make a leap of faith alongside with the boy in trusting that this family is “one of the good guys.” Another interpretation: that the man, now lying on his deathbed, is hallucinating a kind of picture-perfect resolution for the son who he knows—and cannot bear, but must bear—that he must leave behind in a cruel world filled with nothing except the ghosts of a former earth and inhabited by depraved men who will violate and cannibalize him—the innocence of his heart. I have not decided which I’d prefer to believe.<br><br><i>The Road</I> does not have a plot in the sequential sense, the bulk of the events of the book could arguably have been shuffled and it wouldn’t have had much of a difference. <i>The Road</i> does, however, have a destination: the coast, both the literal terminus of the landmass that the characters trek through, and an elegant, if bitter, final location for the death of the man and the end of the book, the end of his unknown blood coughs that have crippled him since at least the beginning of the book, some several hundred miles ago. Before he dies, he witnesses the boy in a kind of holy, angelic light, and tells the boy the continue to “carry the fire” though in this case, though in this case, the “fire” is spoken at the same time the boy is handed the pistol that the man had been using to protect them throughout all this time, complicating the purer, more idealistic hope for the innocence of the boy’s good will that the “fire” seemed to refer to throughout the book; the two contradictions: the extremities of both violence and innocence reconcile into a single, uneasy paradox in the form of a symbolic and actual weapon. <br>The boy seems to know this, he holds the pistol with great care, not quite at ease, but not afraid to wield it either. He tells the man whose family later adopts him, he’s not willing to let go of the gun, but, against all the threats he and his father had encountered, the boy still does not assume the man is someone he must wield it against. His innocence is no longer naive but it is decidedly insisted upon, even stubbornly so. And perhaps this is the truest form of innocence: not the conditions of purity but a defiant commitment to grace against all reason."
+        }
+      ],
+      "related": [
+      ]
+    },
+    {
+      "slug": "title-placeholder-note",
+      "id": "734729",
+      "type": "02",
+      "meta": {
+        "title": "Notes on Bill Brown's Thingness for My Critical Histories Final",
+        "date": "2024/11",
+        "type": "Note"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "Bill Brown made a distinction between objects and things. For Brown, objects are items that have clear functions and roles within their contexts. Things, instead, refers to a status of being that is manifest when objects malfunction, allowing them to shed their identity as a utilitarian entity, letting them transcend their human-centric existence, their newfound assertion undermining our human agency. This is how thingness makes objects powerful, it’s allows objects an autonomy that functions not unlike that which we’d like to believe is exclusive to the realm of living, thinking beings.<br><br>I think that design’s relationship to thingness isn’t talked about enough. Sometimes the word “presence” might be used in reference to a designed object but that’s usually the extent of it. It’s not clear to me whether or not thingness is something design should aspire towards. On one hand, thingness is useful in a critical context, because when an entity is emancipated from its functional identity, it reveals and destabilizes frameworks of meaning and power that might have been embedded within the object’s original function, allowing for reinterpretation, reconstruction, and even simply destruction.<br><br>But the problem with aspiring towards thingness is that the intention of thingness could only ever result in a simulacrum. This is already evidenced by designers who seem to want to aspire towards an artistry of design. Art, unlike design in the most essential sense, can more easily assume a thingness by virtue of its ambiguity—its resistance against classification by any one purpose. But in a conscious attempt to transfer art’s capacity for thingness into a designed object, designers are not actually granting thingness as much as they are evoking the allure of thingness, the power of “presence.” This simply perpetuates a seduction towards the enchantment and empowerment of objects."
+        }
+      ],
+      "related": [
+      ]
+    },
+    {
+      "slug": "title-placeholder-note",
+      "id": "002",
+      "type": "02",
+      "meta": {
+        "title": "On Portrait of a Class",
+        "date": "2024/04",
+        "type": "Note"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "I almost wrote “in memoriam” like it was for a funeral, nobody’s dead of course but it did feel like I needed to move on from the class. I’d had to pleasure of being Chris’ student for two semesters and then the honor of being her TA for another two, and while the name of the class and the faces changed every term the content was more or less the same and so really I’d been in the same class for four semesters. I’d gotten so used to Friday mornings at Hillside, in that odd bottom floor nook of terrible, windowless classrooms where the school put all the H-CRT classes, the most interesting ones, the ones that make myths, the muffled buzzing of the Model Shop sanding room above the ceiling and the sound of dollies being wheeled in and out of the Prop Room next door. Is it too punk-emo-goth-theater-kid, too peaked-in-high-school to say it was like our own Dead Poets Society? That’s what they were about right? I remember that they made us watch it in AS English but of course when the lights were off that I meant I could duck my head and draw in my sketchbook and not pay attention. <br><br>Chris once asked me what high school clique I was a part of. It took a moment, I hadn’t thought of high school since I left some half decade ago and I definitely didn’t miss it, but I must admit that there’s a certain kind of quaint liveliness that comes from things like John Green’s books, Taylor Swift lyrics, The Perks of Being A Wallflower. I told Chris I think had a foot in with the theater kids, the Popular Asians, but also that I think I was either too intense or too deranged to really be part of any clique and at the same time not antisocial enough to be a real loner kid so I spent most of my time in the art room and with the same one or two friends after school. I don’t really have any photos from that part of my life. I think I was too depressed and too anxious and I would have just loved to forget that entire part of my life. <br><br>I don’t really know how exactly but I’m often quite happy now. Or maybe happy isn’t quite right, it’s more like an enduring state of inspired, always ebbing between a constant thumping rhythm and a quiet euphoria. Sometimes I worry if this is a strange extended but temporary lapse in some tragic Freudian impulse to conquer what I once couldn’t or I wonder if it’s because I’ve been somehow Kumbaya’d on life, finally conscious enough of the present that I’ve attained some primary sensation of alive-ness that I’d missed during my adolescence.<br><br>I noticed that all the Illustration kids were drawing everyone else in the room, trying to play it off like they were writing notes and things for the first few weeks and eventually they’d just lay out their sketchbooks on the table, out in the open. I thought they needed to respect their teachers more but then I thought if writing was seeing then why couldn’t drawing be writing too? I mean, maybe it’s not mine but theirs and that’s what they came to ArtCenter to do right? To get good at drawing, real good. I figured we could compile everyone’s drawings together into something, I said “printed artifact” in the email, I said it was something we could surprise Chris with on the last day of class. If they wanted, they could just email me photos of their drawings and I’d handle the rest. It’d be like a group photo, a little token of appreciation, maybe a parting gift. I think mostly, I’ve found myself addicted to the neurotic creation of documentation, approaching the paranoia of finally having something to lose."
+        }
+      ],
+      "related": [
+        {
+          "id": "001"
+        },
+        {
+          "id": "002"
+        }
+      ]
+    },
+    {
+      "slug": "title-placeholder-note",
+      "id": "7491793",
+      "type": "02",
+      "meta": {
+        "title": "Fantasy Exercise",
+        "date": "2024/04",
+        "type": "Note"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "Fantasy Exercise<br><br>We will be writing our own fantasy in this exercise inspired by Evan Allgood’s My Upstate Fantasy Life.<br><br>The structure of this writing exercise will begin with the place of your chosen fantasy life. Use this place as a starting point for all the details of your fantasy.<br><br>For example:<br>In LA, everyone will…<br>In LA, I will…<br>In LA, where it is always…<br>(Etc.)<br><br>In my Malibu mansion there will always be…<br>In my Malibu mansion, my friends will…<br>In my Malibu mansion, where I sometimes…<br>(Etc.)<br><br>Each statement can be as long or as short, as concise or as detailed as you’d like. <br>They can be multiple sentences or a paragraph or even just a few words.<br><br>Be vain. <br>Be vulgar. <br>Be modest. <br>Be humble. <br>Be mean. <br>Be kind.<br>Be whatever, it’s your fantasy.<br>"
+        }
+      ],
+      "related": [
+        {
+          "id": "001"
+        },
+        {
+          "id": "002"
+        }
+      ]
+    },
+    {
+      "slug": "title-placeholder-note",
+      "id": "094887",
+      "type": "02",
+      "meta": {
+        "title": "Comparator Mirror Progress",
+        "date": "2023",
+        "type": "Note"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "I spent this evening at the shop again, for the third time in a row this week. It was the sixth prototype of my comparator mirror that was done today, the one I’ll hopefully be showing in class when it’s due next week but I think I’ve already failed. I have one more evening at the shop on Friday to meticulously fuse all the parts together, and I mean actually fuse because everything is acrylic and clear and perfect while everything is completely untouched by Weld-On, which eats away at acrylic in order to bond it. Isn’t that interesting? That fusion requires a kind of corrosion first. I have one shot to do it perfectly and I know I won’t because [omitted] and I talked today about using screws. Screws? Yes. Screws with binding barrels. I don’t think I’ve ever felt so stupid. The entire project is ruined now.<br><br>Caterina Barbieri’s <i>Fantas for Two Organs</i> has been playing since I left the shop; in the car, in the shower, while eating a microwaved burrito, even when the volume is off. I never knew organs sounded so solemn until now. This is appropriate. I do feel like I’m grieving right now, for the $70 I don’t have that I spent on the acrylic and laser cutting and for all the time I spent designing around the idea that I’d be fusing acrylic not fastening it together! I have three other finals I need to be worrying about, but instead I’m worrying that I’ve become like [omitted] who, although I don’t think he’d call himself an artist, is ultimately paralyzed by his uncompromising pursuit of The Beautiful the same way any artist worth being called one is. I used to resent him for that, for seeking beautiful things that he couldn’t have, for making beautiful things at the cost of making things that functioned and now I don’t know if I still do or do not, resent him that is.<br><br>I want to say there can be no screws. Screws are so ugly, the way they need to make themselves known, the way they show that something can be taken apart. No, it needs to be fused together, bonded so strongly that one can no longer even comprehend of it ever having been two separate pieces. Completely seamless. I know that I’m asking for too much. I don’t think any kind adhesive can achieve that. Neither can heat, not without making that thing thing-less all together."
+        }
+      ],
+      "related": [
+        {
+          "id": "834382"
+        }
+      ]
+    }
+  ]
+}
