@@ -7,14 +7,22 @@
             "organization": "ArtCenter College of Design",
             "location": "Pasadena, CA",
             "notes": "Valedictorian of Fall 2024"
+        }
+    ],
+    "other": [
+        {
+            "start": "2020-08",
+            "end": "2021-05",
+            "organization": "Maryland Institute College of Art",
+            "location": "Baltimore, MD (Remote)",
+            "notes": "Coursework in Art and Critical Theory"
         },
         {
-            "start": "2021-08",
-            "end": "2024-12",
-            "title": "BFA Graphic Design, With Distinction",
-            "organization": "ArtCenter College of Design",
-            "location": "Pasadena, CA",
-            "notes": "Valedictorian of Fall 2024"
+            "start": "2021-06",
+            "end": "2022-05",
+            "organization": "School for Poetic Computation",
+            "location": "New York, NY (Remote)",
+            "notes": "Coursework in Art and Critical Theory"
         }
     ],
     "work": [
@@ -54,24 +62,40 @@
         {
             "start": "2023-06",
             "end": "2023-08",
-            "title": "Design Intern",
-            "organization": "2x4",
+            "title": "Award of Excellence — 2025 Typography Annual",
+            "organization": "Communication Arts",
+            "location": "New York, NY",
+            "notes": "AutoSpell."
+        },
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Entrace Scholarship",
+            "organization": "ArtCenter College of Design",
+            "location": "Pasadena, CA",
+            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+        },
+        {
+            "start": "2023-06",
+            "end": "2023-08",
+            "title": "Rett Nearburg Scholarship",
+            "organization": "Nearburg Foundation / Maryland Institute College of Art",
             "location": "New York, NY",
             "notes": "Worked on visual identity systems, internal tooling, and editorial design."
         },
         {
             "start": "2023-06",
             "end": "2023-08",
-            "title": "Design Intern",
-            "organization": "2x4",
+            "title": "Academic Honors Award",
+            "organization": "Maryland Institute College of Art",
             "location": "New York, NY",
             "notes": "Worked on visual identity systems, internal tooling, and editorial design."
         },
         {
             "start": "2023-06",
             "end": "2023-08",
-            "title": "Design Intern",
-            "organization": "2x4",
+            "title": "Creatove Vision Award",
+            "organization": "Maryland Institute College of Art",
             "location": "New York, NY",
             "notes": "Worked on visual identity systems, internal tooling, and editorial design."
         }
