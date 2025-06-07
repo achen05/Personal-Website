@@ -27,19 +27,20 @@
     ],
     "work": [
         {
-            "start": "2023-06",
-            "end": "2023-08",
+            "start": "2025-06",
+            "end": "Current",
             "title": "Design Intern",
             "organization": "2x4",
             "location": "New York, NY",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "notes": ""
         },
         {
             "start": "2021-08",
             "end": "2024-12",
             "title": "Design Support (Designer)",
             "organization": "Numbers",
-            "location": "Austin, TX (Remote)"
+            "location": "Austin, TX (Remote)",
+            "notes": ""
         },
         {
             "start": "2025-01",
@@ -55,75 +56,59 @@
             "title": "Teaching Assistant",
             "organization": "ArtCenter College of Design",
             "location": "Pasadena, CA",
-            "notes": "Worked with"
+            "notes": ""
         }
     ],
     "awards": [
         {
-            "start": "2023-06",
-            "end": "2023-08",
+            "start": "2024-10",
+            "end": "",
             "title": "Award of Excellence — 2025 Typography Annual",
             "organization": "Communication Arts",
             "location": "New York, NY",
             "notes": "AutoSpell."
         },
         {
-            "start": "2023-06",
-            "end": "2023-08",
+            "start": "2021-08",
+            "end": "",
             "title": "Entrace Scholarship",
             "organization": "ArtCenter College of Design",
             "location": "Pasadena, CA",
             "notes": "Worked on visual identity systems, internal tooling, and editorial design."
         },
         {
-            "start": "2023-06",
-            "end": "2023-08",
+            "start": "2020-08",
+            "end": "",
             "title": "Rett Nearburg Scholarship",
             "organization": "Nearburg Foundation / Maryland Institute College of Art",
-            "location": "New York, NY",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "location": "Baltimore, MD",
+            "notes": ""
         },
         {
-            "start": "2023-06",
-            "end": "2023-08",
+            "start": "2020-08",
+            "end": "",
             "title": "Academic Honors Award",
             "organization": "Maryland Institute College of Art",
-            "location": "New York, NY",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "location": "Baltimore, MD",
+            "notes": ""
         },
         {
-            "start": "2023-06",
-            "end": "2023-08",
-            "title": "Creatove Vision Award",
+            "start": "2020-08",
+            "end": "",
+            "title": "Creative Vision Award",
             "organization": "Maryland Institute College of Art",
-            "location": "New York, NY",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "location": "Baltimore, MD",
+            "notes": ""
         }
     ],
     "clients": [
         {
-            "start": "2023-06",
-            "end": "2023-08",
-            "title": "Design Intern",
-            "organization": "2x4",
-            "location": "New York, NY",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
-        },
-        {
-            "start": "2023-06",
-            "end": "2023-08",
-            "title": "Design Intern",
-            "organization": "2x4",
-            "location": "New York, NY",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
-        },
-        {
-            "start": "2023-06",
-            "end": "2023-08",
-            "title": "Design Intern",
-            "organization": "2x4",
-            "location": "New York, NY",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "start": "2024-05",
+            "end": "2024-06",
+            "title": "Book Layout Design",
+            "organization": "semiotext(e)",
+            "location": "Los Angeles, CA",
+            "notes": "Layout for <i>hello, world?</i> by Anna Poletti"
         }
     ],
     "involvement": [
