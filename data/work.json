@@ -284,7 +284,9 @@
         }
       ],
       "related": [
-        {"id": "094887"}
+        {
+          "id": "094887"
+        }
       ]
     },
     {
@@ -476,16 +478,18 @@
       },
       "media": [
         {
-          "type": "image",
-          "src": "assets/projects/writing-under-from-and-beyond/portrait.jpg"
-        },
-        {
-          "type": "image",
-          "src": "assets/projects/writing-under-from-and-beyond/investigations.jpg"
-        },
-        {
-          "type": "image",
-          "src": "assets/projects/writing-under-from-and-beyond/observations.jpg"
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/projects/writing-under-from-and-beyond/portrait.jpg"
+            },
+            {
+              "src": "assets/projects/writing-under-from-and-beyond/investigations.jpg"
+            },
+            {
+              "src": "assets/projects/writing-under-from-and-beyond/observations.jpg"
+            }
+          ]
         },
         {
           "type": "text",
@@ -673,8 +677,7 @@
           "text": "Respectfully, and with grace, I felt a kind a sour twang at McCarthy’s use of the now-archaic word “catamites.” Of course, to any reasonable and good faith interpretation, McCarthy’s usage of the word was meant to function as a condemnation of the sexual violence and enslavement of boys by the “bad men” of a depraved, post-apocalyptic world. But McCarthy, as any serious writer must be, wielded his words with a careful and deliberate precision. By the time of <i>The Road</i>, he’d long already earned his place among the pantheon of Great American Novelists. It’s knowing this, I suppose, that made me suspicious of this particular instance of the word. “Catamites” carried with it a long and heavy history of homosexuality being conflated with predatory forms of desire and sexual violence, falsely tethered to rape, pedophilia, and moral rot. Its invocation in the time of the book’s 2006 publication and again now in the 2025 that I’d read it, seemed to tug at a kind of tired and dangerous equivalence that I’ve learned to fear—even in gayed-out San Francisco or the more diffused, entropic openness of Los Angeles.<br><br>280 pages of sanctifying the love between father and son—against all the witnessed atrocities of a scorched planet that was always threatening to blacken their bond to char—only for its sacredness to be undercut on the very next page, 281, by a family, conveniently armed with a shotgun and more ammunition than one could need in world where having any gun at all was the ultimate shield, and whom, decided out of some holy charity, to take in the newly orphaned boy. There’s an unsatisfying asymmetry to it, the hopeful interpretation—the one McCarthy himself would probably prefer—which asks the reader to make a leap of faith alongside with the boy in trusting that this family is “one of the good guys.” Another interpretation: that the man, now lying on his deathbed, is hallucinating a kind of picture-perfect resolution for the son who he knows—and cannot bear, but must bear—that he must leave behind in a cruel world filled with nothing except the ghosts of a former earth and inhabited by depraved men who will violate and cannibalize him—the innocence of his heart. I have not decided which I’d prefer to believe.<br><br><i>The Road</I> does not have a plot in the sequential sense, the bulk of the events of the book could arguably have been shuffled and it wouldn’t have had much of a difference. <i>The Road</i> does, however, have a destination: the coast, both the literal terminus of the landmass that the characters trek through, and an elegant, if bitter, final location for the death of the man and the end of the book, the end of his unknown blood coughs that have crippled him since at least the beginning of the book, some several hundred miles ago. Before he dies, he witnesses the boy in a kind of holy, angelic light, and tells the boy the continue to “carry the fire” though in this case, though in this case, the “fire” is spoken at the same time the boy is handed the pistol that the man had been using to protect them throughout all this time, complicating the purer, more idealistic hope for the innocence of the boy’s good will that the “fire” seemed to refer to throughout the book; the two contradictions: the extremities of both violence and innocence reconcile into a single, uneasy paradox in the form of a symbolic and actual weapon. <br>The boy seems to know this, he holds the pistol with great care, not quite at ease, but not afraid to wield it either. He tells the man whose family later adopts him, he’s not willing to let go of the gun, but, against all the threats he and his father had encountered, the boy still does not assume the man is someone he must wield it against. His innocence is no longer naive but it is decidedly insisted upon, even stubbornly so. And perhaps this is the truest form of innocence: not the conditions of purity but a defiant commitment to grace against all reason."
         }
       ],
-      "related": [
-      ]
+      "related": []
     },
     {
       "slug": "title-placeholder-note",
@@ -691,8 +694,7 @@
           "text": "Bill Brown made a distinction between objects and things. For Brown, objects are items that have clear functions and roles within their contexts. Things, instead, refers to a status of being that is manifest when objects malfunction, allowing them to shed their identity as a utilitarian entity, letting them transcend their human-centric existence, their newfound assertion undermining our human agency. This is how thingness makes objects powerful, it’s allows objects an autonomy that functions not unlike that which we’d like to believe is exclusive to the realm of living, thinking beings.<br><br>I think that design’s relationship to thingness isn’t talked about enough. Sometimes the word “presence” might be used in reference to a designed object but that’s usually the extent of it. It’s not clear to me whether or not thingness is something design should aspire towards. On one hand, thingness is useful in a critical context, because when an entity is emancipated from its functional identity, it reveals and destabilizes frameworks of meaning and power that might have been embedded within the object’s original function, allowing for reinterpretation, reconstruction, and even simply destruction.<br><br>But the problem with aspiring towards thingness is that the intention of thingness could only ever result in a simulacrum. This is already evidenced by designers who seem to want to aspire towards an artistry of design. Art, unlike design in the most essential sense, can more easily assume a thingness by virtue of its ambiguity—its resistance against classification by any one purpose. But in a conscious attempt to transfer art’s capacity for thingness into a designed object, designers are not actually granting thingness as much as they are evoking the allure of thingness, the power of “presence.” This simply perpetuates a seduction towards the enchantment and empowerment of objects."
         }
       ],
-      "related": [
-      ]
+      "related": []
     },
     {
       "slug": "title-placeholder-note",
