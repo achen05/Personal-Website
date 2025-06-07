@@ -492,12 +492,17 @@ label {
     padding: 8px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
 }
 
 .overview-item-image {
+    margin-bottom: 8px;
     /* max-height: 600px;
     object-fit: contain; */
+}
+
+.overview-item-type {
+    color: grey;
 }
 
 .overview-item-article {
