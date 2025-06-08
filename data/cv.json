@@ -103,6 +103,14 @@
     ],
     "clients": [
         {
+            "start": "2024-10",
+            "end": "2024.11",
+            "title": "Logo Design",
+            "organization": "Moss (Design Studio)",
+            "location": "Los Angeles, CA",
+            "notes": ""
+        },
+        {
             "start": "2024-06",
             "end": "2024-07",
             "title": "Book Layout Design",
@@ -117,6 +125,30 @@
             "organization": "semiotext(e)",
             "location": "Los Angeles, CA",
             "notes": "Layout for <i>hello, world?</i> by Anna Poletti"
+        },
+        {
+            "start": "2021-06",
+            "end": "2021-09",
+            "title": "Website Design",
+            "organization": "Sarah Hromack for George Ciscle",
+            "location": "Remote",
+            "notes": "Sqaurespace website design for George Ciscle."
+        },
+        {
+            "start": "2021-05",
+            "end": "2021-07",
+            "title": "Website Design and Development",
+            "organization": "Black Artist Research Space",
+            "location": "Remote",
+            "notes": "Website design and development with HTML/CSS/JS."
+        },
+        {
+            "start": "2021-03",
+            "end": "2021-05",
+            "title": "Website Design and Development",
+            "organization": "Maryland Institute College of Art",
+            "location": "Baltimore, MD (Remote)",
+            "notes": "Social Media for <i>Walk In The Park</i> podcast by MICA Interactive Arts."
         }
     ],
     "involvement": [
