@@ -45,9 +45,9 @@ function renderSection(containerId, entries) {
 function renderAllSections(data) {
   renderSection("education", data.education);
   renderSection("other", data.other);
-  renderSection("work", data.work);
+  renderSection("roles", data.roles);
   renderSection("awards", data.awards);
-  renderSection("clients", data.clients);
+  renderSection("projects", data.projects);
   renderSection("involvement", data.involvement);
 }
 
