@@ -25,7 +25,7 @@
             "notes": "Coursework in Art and Critical Theory"
         }
     ],
-    "work": [
+    "roles": [
         {
             "start": "2025-06",
             "end": "Current",
@@ -101,7 +101,7 @@
             "notes": ""
         }
     ],
-    "clients": [
+    "projects": [
         {
             "start": "2024-10",
             "end": "2024.11",
@@ -127,6 +127,30 @@
             "notes": "Layout for <i>hello, world?</i> by Anna Poletti"
         },
         {
+            "start": "2024-01",
+            "end": "2024-04",
+            "title": "Website Design and Development",
+            "organization": "Sophia Liv Maguire",
+            "location": "Los Angeles, CA",
+            "notes": "Portfolio website design and development with HTML/CSS/JS."
+        },
+         {
+            "start": "2023-06",
+            "end": "2023-07",
+            "title": "Social Media Design",
+            "organization": "Diane Lac",
+            "location": "Los Angeles, CA",
+            "notes": "Social media graphics for Diane Lac."
+        },
+        {
+            "start": "2022-01",
+            "end": "2022-06",
+            "title": "Visual Identity + Website Design and Development + Social Media",
+            "organization": "Black Artist Research Space",
+            "location": "Washington D.C.",
+            "notes": "Website design and development with HTML/CSS/JS."
+        },
+        {
             "start": "2021-06",
             "end": "2021-09",
             "title": "Website Design",
@@ -142,10 +166,18 @@
             "location": "Remote",
             "notes": "Website design and development with HTML/CSS/JS."
         },
+         {
+            "start": "2021-04",
+            "end": "2021-05",
+            "title": "Website Design and Development",
+            "organization": "Sarah Leiva",
+            "location": "Remote",
+            "notes": "Website design and development with HTML/CSS/JS."
+        },
         {
             "start": "2021-03",
             "end": "2021-05",
-            "title": "Website Design and Development",
+            "title": "Social Media Graphics",
             "organization": "Maryland Institute College of Art",
             "location": "Baltimore, MD (Remote)",
             "notes": "Social Media for <i>Walk In The Park</i> podcast by MICA Interactive Arts."
