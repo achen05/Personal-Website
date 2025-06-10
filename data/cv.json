@@ -35,10 +35,11 @@
             "notes": ""
         },
         {
-            "start": "2021-08",
-            "end": "2024-12",
+            "start": "2025-04",
+            "end": "2025-05",
             "title": "Design Support (Designer)",
             "organization": "Numbers",
+            "organizationLink": "",
             "location": "Austin, TX (Remote)",
             "notes": ""
         },
@@ -46,13 +47,37 @@
             "start": "2025-01",
             "end": "2025-03",
             "title": "Consultant / Brand Designer",
-            "organization": "Luma Labs (Luma AI)",
+            "organization": "Luma Labs",
             "location": "Palo Alto, CA",
-            "notes": "Various projects."
+            "notes": ""
         },
         {
-            "start": "2023-06",
-            "end": "2023-08",
+            "start": "2024-01",
+            "end": "2024-12",
+            "title": "Writing Coach",
+            "organization": "Writing Center, ArtCenter College of Design",
+            "location": "Pasadena, CA",
+            "notes": ""
+        },
+        {
+            "start": "2024-01",
+            "end": "2024-05",
+            "title": "Teaching Assistant",
+            "organization": "ArtCenter College of Design",
+            "location": "Pasadena, CA",
+            "notes": ""
+        },
+        {
+            "start": "2023-08",
+            "end": "2023-12",
+            "title": "Graphic Designer, Co-editor",
+            "organization": "Source Material",
+            "location": "Pasadena, CA",
+            "notes": ""
+        },
+        {
+            "start": "2023-08",
+            "end": "2023-12",
             "title": "Teaching Assistant",
             "organization": "ArtCenter College of Design",
             "location": "Pasadena, CA",
@@ -66,15 +91,15 @@
             "title": "Award of Excellence — 2025 Typography Annual",
             "organization": "Communication Arts",
             "location": "New York, NY",
-            "notes": "AutoSpell."
+            "notes": "For AutoSpell: <a href=\"https://www.commarts.com/project/37443/autospell\">Visit</a>"
         },
         {
             "start": "2021-08",
             "end": "",
-            "title": "Entrace Scholarship",
+            "title": "Undergradaute Scholarship",
             "organization": "ArtCenter College of Design",
             "location": "Pasadena, CA",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "notes": ""
         },
         {
             "start": "2020-08",
@@ -140,7 +165,7 @@
             "title": "Social Media Design",
             "organization": "Diane Lac",
             "location": "Los Angeles, CA",
-            "notes": "Social media graphics for Diane Lac."
+            "notes": ""
         },
         {
             "start": "2022-01",
@@ -190,7 +215,7 @@
             "title": "Panel Speaker",
             "organization": "AICAD Symposium",
             "location": "Pasadena, CA",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "notes": "Speaker for panel and Q/A on the role of artificial intelligence in higher education within art and design institutions."
         },
         {
             "start": "2024-11",
@@ -198,7 +223,7 @@
             "title": "Volunteer",
             "organization": "San Francisco Marin Food Bank",
             "location": "San Francisco, CA",
-            "notes": "Worked on visual identity systems, internal tooling, and editorial design."
+            "notes": "Packaged and distributed food and basic necessities to at-risk communities living in the Bay Area during the COVID-19 pandemic. Provided basic Cantonese to English translation."
         }
     ]
 }

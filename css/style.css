@@ -83,8 +83,17 @@ p {
 
 /* Links */
 a {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: underline;
+    color: black;
+    text-decoration-color: blue;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+a:hover {
+    /* color: blue; */
+    background-color: blue;
+    color: white;
 }
 
 /* Table */
@@ -406,10 +415,13 @@ label {
     background-color: white;
     border-radius: 10px;
     margin-bottom: 60px;
+    text-decoration: none;
+    color: black;
 }
 
 .header:hover {
-    background-color: yellow;
+    background-color: #0000ff;
+    color: white;
 }
 
 
@@ -482,14 +494,20 @@ label {
     display: flex;
     flex-direction: column;
     gap: 8px;
-    margin-bottom: 40px;
+    margin-bottom: 80px;
+}
+
+.overview-work-container {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
 }
 
 .overview-item {
     text-transform: uppercase;
-    border: 1px solid #f2f2f2;
+    /* border: 1px solid #f2f2f2; */
     margin-bottom: 20px;
-    padding: 8px;
+    /* padding: 8px; */
     display: flex;
     flex-direction: column;
     /* align-items: center; */
@@ -522,6 +540,8 @@ label {
     text-transform: uppercase;
     display: flex;
     flex-direction: column;
+    color: black;
+    text-decoration: none;
 }
 
 .project-item:hover {
@@ -566,6 +586,8 @@ label {
     text-transform: uppercase;
     display: flex;
     flex-direction: column;
+    color: black;
+    text-decoration: none;
 
 }
 
@@ -670,5 +692,5 @@ label {
 
 .cv-notes {
     padding-left: 40px;
-    /* color: grey; */
+    color: grey;
 }
