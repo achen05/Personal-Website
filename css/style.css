@@ -501,6 +501,11 @@ label {
     object-fit: contain; */
 }
 
+.overview-item-title {
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
 .overview-item-type {
     color: grey;
 }
