@@ -467,7 +467,7 @@
     },
     {
       "slug": "writing-under-from-and-beyond",
-      "id": "writing-under-from-and-beyond",
+      "id": "3430221",
       "type": "01",
       "meta": {
         "title": "Writing Under, From, and Beyond",
@@ -521,7 +521,14 @@
           "text": "For Chris Kraus\u2019 class during Spring 2024, Writing: Investigation + Beyond, I knew it would be the last semester I would be a Teaching Assistant for the class. I noticed that during the class, some students would draw other students in sketchbooks. Inspired by the journalistic approach to writing that Chris had been teaching, I secretly reached out to these students to collaborate, gradually building a collection of everyone in the classroom over the semester that I used to design a small printed poster, <i>Portrait of a Class</i>, which we surprised Chris with during the last class session.<br><br><i>Portrait of a Class</i> illustration credits: Katheryn Oh, Neko Ohnsman, Evelyn Leon."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "id": "002"
+        },
+        {
+          "id": "7491793"
+        }
+      ]
     },
     {
       "slug": "yin",
@@ -713,10 +720,10 @@
       ],
       "related": [
         {
-          "id": "001"
+          "id": "3430221"
         },
         {
-          "id": "002"
+          "id": "7491793"
         }
       ]
     },
@@ -737,7 +744,7 @@
       ],
       "related": [
         {
-          "id": "001"
+          "id": "3430221"
         },
         {
           "id": "002"
