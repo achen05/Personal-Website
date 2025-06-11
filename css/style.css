@@ -384,10 +384,13 @@ label {
     gap: 0px;
     border-top: 1px solid lightgrey;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .related-item:hover {
     color: #0000ff;
+    background-color: white;
+    
 }
 
 .related-item-title {
@@ -546,7 +549,7 @@ label {
 
 .project-item:hover {
     color: blue;
-    background-color: lightgrey;
+    background-color: white;
 }
 
 .project-item-title {
@@ -593,7 +596,7 @@ label {
 
 .notes-item:hover {
     color: blue;
-    background-color: lightgrey;
+    background-color: white;
 
 }
 
