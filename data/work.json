@@ -774,6 +774,42 @@
     },
     {
       "slug": "title-placeholder-note",
+      "id": "8475672",
+      "type": "02",
+      "meta": {
+        "title": "It's Spelled Beautiful, Not Interesting",
+        "date": "2023.08",
+        "type": "Note"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "I think the worst thing that can be said about a work is that it is <i>interesting</i>. I don’t mean in any sarcastic or demeaning or sardonic manner either. I mean interesting, sincerely stated. I’ve only ever wanted to make beautiful work and to hear that a work is interesting means to me that the work is not beautiful enough to warrant the word. Instead, the work gets relegated to the realm of the Interesting, forever and regretfully defined by its necessary antecedent, the uninteresting Ordinary, and the existence of which is, by nature, a matter of relativity. Unlike beauty, interestingness is not absolute, it has no heart of its own. Beauty pulses. Beauty has a singular way of becoming that is entirely untouchable and it’s through this that beauty manages to <i>transcend</i> form; manages to turn these useless assemblages of act and object into useless things still but wonderful things that might as well be magic."
+        }
+      ],
+      "related": [
+      ]
+    },
+    {
+      "slug": "title-placeholder-note",
+      "id": "8475672",
+      "type": "02",
+      "meta": {
+        "title": "Notes on Designing Meaning",
+        "date": "2023.08",
+        "type": "Note"
+      },
+      "media": [
+        {
+          "type": "text",
+          "text": "The ultimate, logical end of graphic design is, I think, the idea of a brand: that symbolic meaning manages to transcend mere designed objects (physical materials) and emerges from a designed *experience* composed of such materials. <br><br>I think it’s actually quite sad. The idea that a meaningful experience could be *stimulated* is the presumption that graphic design branding founds itself upon; that if a designer was simply precise enough, lucid enough, articulate enough, they could somehow *infuse* a particular experience, and therefore a corresponding meaning, into an abstract network of designed materials.<br><br>To graphic designers, I want to ask: does articulation really bring about into existence anything except more obfuscation? Since when has the word “love” ever really replaced the essence of love itself? Furthermore, what happens to love when it is articulated? Does love now take the form of the word? If it does, then was ever even true in the first place or was it simply just the word itself? And if it doesn’t, then the word becomes a kind of barrier, permanently tethered to that which it designates and which disallows us from ever seeing behind it without first seeing *through* it. How could this phenomenon ever qualify as clarity? Meaningfulness even less so.<br><br>(Under-developed, rewrite later): It’s evident that this applies to more than just graphic design. But where does this tendency come from? I suspect it has to do with friction, that perhaps all of human progress could be understood as an attempt at minimizing friction, so as to make everything immediately accessible. This would be a mistake I think, and I’d wager that many would agree that friction is a necessary facet of beauty, of meaningfulness… (continue)<br><br>I am not a great graphic designer and quite frankly I don’t ever want to be. It’s one of the reasons I don’t care all that much about most of the graphic design classes I have to take at ArtCenter. The ones I care about aren’t really about graphic design at all and the rest get overshadowed by my humanities and sciences classes that I end up transforming into studio classes. Those classes are the ones I find running alongside me, away from graphic design as I understand it and instead towards space, things that open rather than capture, and of which seem to approach a clarity that comes from acknowledging that the most meaningful things to me so far have always been indeterminate, ambiguous, and uncontrollable."
+        }
+      ],
+      "related": [
+      ]
+    },
+    {
+      "slug": "title-placeholder-note",
       "id": "759234",
       "type": "02",
       "meta": {
