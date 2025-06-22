@@ -211,6 +211,24 @@
     "involvement": [
         {
             "start": "2024-11",
+            "end": "()",
+            "title": "Panel Speaker",
+            "organization": "AICAD Symposium",
+            "location": "Pasadena, CA",
+            "notes": "Speaker for panel and Q/A on the role of artificial intelligence in higher education within art and design institutions."
+        },
+        {
+            "start": "2020-11",
+            "end": "2021-2",
+            "title": "Volunteer",
+            "organization": "San Francisco Marin Food Bank",
+            "location": "San Francisco, CA",
+            "notes": "Packaged and distributed food and basic necessities to at-risk communities living in the Bay Area during the COVID-19 pandemic. Provided basic Cantonese to English translation."
+        }
+    ],
+    "exhibitions": [
+        {
+            "start": "2024-11",
             "end": "2024-11",
             "title": "Panel Speaker",
             "organization": "AICAD Symposium",
