@@ -353,7 +353,7 @@ label {
 .modal {
   display: none;
   position: fixed;
-  z-index: 1000;
+  z-index: 4;
   left: 0;
   top: 0;
   width: 100vw;
@@ -412,14 +412,15 @@ label {
 .header {
     text-transform: uppercase;
     /* border: 1px solid blue; */
-    padding: 8px 12px;
+    padding: 6px 12px;
     position: sticky;
     top: 20px;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 4px;
     margin-bottom: 60px;
     text-decoration: none;
     color: black;
+    z-index: 3;
 }
 
 .header:hover {
