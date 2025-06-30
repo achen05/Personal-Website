@@ -463,8 +463,8 @@ label {
 .button-container {
     display: flex;
     gap: 8px;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center;
+    justify-content: center; */
 }
 
 .fit-button {
