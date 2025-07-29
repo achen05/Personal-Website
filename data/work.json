@@ -168,38 +168,11 @@
           "text": "AutoSpell was used to capture a moment of typography and imagery interacting with a live cellular automata simulation."
         }
       ],
-      "related": []
-    },
-    {
-      "slug": "aesthetics-research-society",
-      "id": "aesthetics-research-society",
-      "type": "01",
-      "meta": {
-        "title": "Aesthetics Research Society",
-        "date": "2024",
-        "client": "Student",
-        "type": "Project",
-        "media": "Visual Identity"
-      },
-      "media": [
+      "related": [
         {
-          "type": "image",
-          "src": "assets/projects/aesthetics-research-society/arswipig1.png"
-        },
-        {
-          "type": "image",
-          "src": "assets/projects/aesthetics-research-society/arswipig2.png"
-        },
-        {
-          "type": "image",
-          "src": "assets/projects/aesthetics-research-society/arswipig3.png"
-        },
-        {
-          "type": "text",
-          "text": "Visual identity for the Aesthetics Research Society (ARS), a fictional organization I conceived to explore collective research practices in aesthetics. The organization's visual identity celebrates the mythology of visual culture, embracing its richness while critically engaging with the inherent absurdities of visual mythologies. This project is currently in progress."
+          "id": "116320"
         }
-      ],
-      "related": []
+      ]
     },
     {
       "slug": "comparator-mirror",
@@ -288,6 +261,68 @@
           "id": "094887"
         }
       ]
+    },
+    {
+      "slug": "poetic-code-society",
+      "id": "116320",
+      "type": "01",
+      "meta": {
+        "title": "Poetic Code Society",
+        "date": "2025",
+        "client": "Personal",
+        "type": "Project",
+        "media": "Visual Identity"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/poetic-code-society/AldonChen_PCS_Print.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/poetic-code-society/AldonChen_PCS_Web.png"
+        },
+        {
+          "type": "text",
+          "text": "More soon!"
+        }
+      ],
+      "related": [
+        {
+          "id": "sfpc-identity"
+        }
+      ]
+    },
+    {
+      "slug": "aesthetics-research-society",
+      "id": "aesthetics-research-society",
+      "type": "01",
+      "meta": {
+        "title": "Aesthetics Research Society",
+        "date": "2024",
+        "client": "Student",
+        "type": "Project",
+        "media": "Visual Identity"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "assets/projects/aesthetics-research-society/arswipig1.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/aesthetics-research-society/arswipig2.png"
+        },
+        {
+          "type": "image",
+          "src": "assets/projects/aesthetics-research-society/arswipig3.png"
+        },
+        {
+          "type": "text",
+          "text": "Visual identity for the Aesthetics Research Society (ARS), a fictional organization I conceived to explore collective research practices in aesthetics. The organization's visual identity celebrates the mythology of visual culture, embracing its richness while critically engaging with the inherent absurdities of visual mythologies. This project is currently in progress."
+        }
+      ],
+      "related": []
     },
     {
       "slug": "source-material",
