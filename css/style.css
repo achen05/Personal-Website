@@ -328,9 +328,9 @@ label {
 
 .text-media {
     line-height: 1.3;
-    /* font-family: serif; */
-    /* font-size: 18px; */
-    /* letter-spacing: -0.02rem; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    /* letter-spacing: -0.01rem; */
     /* max-width: 400px; */
 }
 
