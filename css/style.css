@@ -147,7 +147,7 @@ label {
     .column-container {
         display: grid;
         grid-template-columns: 1fr 2fr 1fr;
-        max-width: 1200px;
+        max-width: 1250px;
     }
 }
 
@@ -448,7 +448,7 @@ label {
     width: 100%;
     text-align: center;
     border: 1px solid lightgrey;
-    padding: 4px 8px;
+    padding: 5px 10px;
     text-decoration: none;
     color: #000;
     text-transform: uppercase;
@@ -497,8 +497,25 @@ label {
 .introduction-container {
     display: flex;
     flex-direction: column;
+    gap: 12px;
+    margin-bottom: 48px;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
     gap: 8px;
-    margin-bottom: 80px;
+    /* padding-top: 20px; */
+    justify-content: center;
+    align-items: center;
+}
+
+.inline-label {
+    text-transform: uppercase;
+    padding: 0px;
+
 }
 
 .overview-work-container {
