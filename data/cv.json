@@ -27,8 +27,16 @@
     ],
     "roles": [
         {
-            "start": "2025-06",
+            "start": "2025-09",
             "end": "Current",
+            "title": "Junior Designer",
+            "organization": "2x4",
+            "location": "New York, NY",
+            "notes": ""
+        },
+        {
+            "start": "2025-06",
+            "end": "2025-08",
             "title": "Design Intern",
             "organization": "2x4",
             "location": "New York, NY",
