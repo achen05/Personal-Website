@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 1px dotted blue;
+}
+
+.website-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    position: sticky;
+    top: 0px;
+
+}
+
+.header {
+    top: 0px;
+    
+
+}
+
+.body {
+    top: 65vh;
+    height: 1000px;
+    position: relative;
+}
