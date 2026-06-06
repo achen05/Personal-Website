@@ -29,6 +29,7 @@ async function loadLocalJSON() {
                     const contentImage = document.createElement('img');
                     contentImage.className = 'content-image';
                     contentImage.src = item.content;
+                    contentImage.loading = 'lazy';
                     contentBlockBody.appendChild(contentImage);
                     break;
                 case "text":
