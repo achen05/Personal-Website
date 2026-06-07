@@ -275,12 +275,10 @@ a {
 
 .primary-body {
     width: 100%;
-    max-width: 500px;
     font-size: 12pt;
     line-height: 125%;
-    font-family: 'EB Garamond';
     text-indent: 48px;
-    letter-spacing: 0.25pt;
+    letter-spacing: 0.2pt;
     color: rgb(0, 0, 0, 0.75);
 }
 
