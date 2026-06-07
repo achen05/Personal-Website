@@ -3,6 +3,11 @@
     src: url("fonts/InterVariable.woff2");
 }
 
+@font-face {
+    font-family: EBGaramond;
+    src: url("fonts/EBGaramond-VariableFont_wght.ttf");
+}
+
 * {
     margin: 0px;
     padding: 0px;
@@ -73,8 +78,8 @@ a {
     width: 100%;
     max-width: 500px;
     font-size: 14pt;
-    line-height: 145%;
-    font-family: 'EB Garamond';
+    line-height: 140%;
+    font-family: 'EBGaramond';
     text-indent: 48px;
     letter-spacing: 0.25pt;
     color: rgb(0, 0, 0, 0.75);
@@ -235,7 +240,7 @@ a {
     color: black;
     font-family: 'Inter';
     letter-spacing: 0.5pt;
-    font-size: 12pt;
+    font-size: 10pt;
     position: sticky;
     top: 0px;
     background-color: white;
@@ -271,16 +276,23 @@ a {
 .primary-body {
     width: 100%;
     max-width: 500px;
-    font-size: 13pt;
-    line-height: 130%;
+    font-size: 12pt;
+    line-height: 125%;
     font-family: 'EB Garamond';
     text-indent: 48px;
     letter-spacing: 0.25pt;
     color: rgb(0, 0, 0, 0.75);
 }
+
+.button {
+    padding: 5px 8px;
+    font-size: 9pt;
+}
+
+
     .gallery-container {
         padding: 12px;
-        gap: 40px;
+        gap: 60px;
         grid-template-columns: repeat(1, 1fr);
         /* border: 1px solid blue; */
     }

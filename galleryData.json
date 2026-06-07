@@ -28,6 +28,13 @@
         "content": "assets/AldonChen_2026-05-30_AC-1_Tablet_01.jpg"
     },
     {
+        "title": "AC Tulare — Field Notes Type Specimen",
+        "description": "",
+        "type": "image",
+        "href": "assets/AldonChen_2026-05-30_AC-Tulare_FieldNotesSpecimen_01.png",
+        "content": "assets/AldonChen_2026-05-30_AC-Tulare_FieldNotesSpecimen_01.png"
+    },
+    {
         "title": "Oris Morahn Website — Mobile",
         "description": "Mobile screens for photographer website",
         "type": "image",
@@ -36,7 +43,7 @@
     },
     {
         "title": "It's Nice That",
-        "description": "Excerpt from It's Nice tzhat feature.",
+        "description": "Excerpt from It's Nice That feature.",
         "type": "text",
         "href": "https://www.itsnicethat.com/articles/aldon-chen-graphic-design-ones-to-watch-270126",
         "content": "“I grew to become very sensitive to the ways language and design engendered certain modes of interfacing and interpreting the world, which made design and language not only an issue of power, but an inherently political activity too,” says Aldon. “This is where my ethical and aesthetic affinities correspond, it’s why I think I tend to gravitate towards designing systems of some kind: interfaces, tools and more.”"
@@ -84,6 +91,20 @@
         "content": "assets/AldonChen_2026-05-30_SourceMaterial-Issue5_GeographicalAnomoliesMap-Scanned_01.jpg"
     },
     {
+        "title": "A Survey of Lifeforms",
+        "description": "A poster reinterpreting Conway's original sketch of patterns found in cellular automata.",
+        "type": "image",
+        "href": "assets/AldonChen_2026-05-30_ASurveyofLifeforms_01.png",
+        "content": "assets/AldonChen_2026-05-30_ASurveyofLifeforms_01.png"
+    },
+    {
+        "title": "AutoSpell",
+        "description": "A Processing sketch that synthesizes type and cellular automata with real-time interaction.",
+        "type": "image",
+        "href": "https://www.commarts.com/project/37443/autospell",
+        "content": "assets/AldonChen_2026-05-30_AutoSpell_01.png"
+    },
+    {
         "title": "Container Theory",
         "description": "An argument taking the form of nested HTML elements.",
         "type": "image",
@@ -96,13 +117,6 @@
         "type": "image",
         "href": "assets/AldonChen_2026-05-30_FlowerDrawing_01.jpg",
         "content": "assets/AldonChen_2026-05-30_FlowerDrawing_01.jpg"
-    },
-    {
-        "title": "AutoSpell",
-        "description": "A Processing sketch that synthesizes type and cellular automata with real-time interaction.",
-        "type": "image",
-        "href": "https://www.commarts.com/project/37443/autospell",
-        "content": "assets/AldonChen_2026-05-30_AutoSpell_01.png"
     },
     {
         "title": "Investigations — Poster",
@@ -134,7 +148,7 @@
     },
     {
         "title": "Flower Drawing 2023",
-        "description": "A poster ",
+        "description": "",
         "type": "image",
         "href": "assets/AldonChen_2026-05-30_FlowerDrawing2023_01.png",
         "content": "assets/AldonChen_2026-05-30_FlowerDrawing2023_01.png"
@@ -152,12 +166,5 @@
         "type": "image",
         "href": "assets/AldonChen_2026-05-30_PoeticCodeSociety_ASCIIPostcards_01.jpg",
         "content": "assets/AldonChen_2026-05-30_PoeticCodeSociety_ASCIIPostcards_01.jpg"
-    },
-    {
-        "title": "A Survey of Lifeforms",
-        "description": "A poster reinterpreting Conway's original sketch of patterns found in cellular automata.",
-        "type": "image",
-        "href": "assets/AldonChen_2026-05-30_ASurveyofLifeforms_01.png",
-        "content": "assets/AldonChen_2026-05-30_ASurveyofLifeforms_01.png"
     }
 ]
