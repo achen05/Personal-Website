@@ -93,7 +93,7 @@ a {
 .button-grid {
     display: flex;
     width: 100%;
-    max-width: 600px;
+    max-width: 500px;
     flex-wrap: wrap;
     gap: 12px;
     justify-content: center;
