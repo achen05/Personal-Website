@@ -1,5 +1,12 @@
 [
     {
+        "title": "Poster for Phillip Dornbusch",
+        "description": "Bespoke lettering and my typeface AC Tulare for Phillip Dornbusch.",
+        "type": "image",
+        "href": "assets/AldonChen_2026-10-15_PhillipDornbusch_2026-10_01.png",
+        "content": "assets/AldonChen_2026-10-15_PhillipDornbusch_2026-10_01.png"
+    },
+    {
         "title": "AC Tulare — Full Show",
         "description": "Full show for AC Tulare, a typeface I designed.",
         "type": "image",
@@ -7,7 +14,7 @@
         "content": "assets/AldonChen_2026-05-30_AC-Tulare_FullShow_01.png"
     },
     {
-        "title": "Clearly Magic — Excerpt",
+        "title": "Clearly Magic — Excerpt &nearr;",
         "description": "Excerpt from Clearly Magic, an essay I wrote on the relationship between technology, complexity, and enchantment through the lens of transparent electronics.",
         "type": "text",
         "href": "https://substack.com/@aldonchen/note/p-184505923?utm_source=notes-share-action&r=77z431",
@@ -21,7 +28,7 @@
         "content": "assets/AldonChen_2026-05-30_AC-1_PeriodicTable-Set_01.jpg"
     },
     {
-        "title": "AC Tulare for Phillip Dornbusch",
+        "title": "AC Tulare for Phillip Dornbusch &nearr;",
         "description": "My typeface, AC Tulare, in use for Phillip Dornbusch.",
         "type": "image",
         "href": "https://www.instagram.com/p/DbQ_P6FJTsi/?igsh=MXB2cXppMndmYnVweQ==",
@@ -29,7 +36,7 @@
     },
     {
         "title": "AC-1 — Tablet",
-        "description": "A Periodic Table of Elements designed as a type specimen for my typeface, AC-1",
+        "description": "An acrylic table designed as a type specimen for my typeface, AC-1",
         "type": "image",
         "href": "assets/AldonChen_2026-05-30_AC-1_Tablet_01.jpg",
         "content": "assets/AldonChen_2026-05-30_AC-1_Tablet_01.jpg"
@@ -49,14 +56,14 @@
         "content": "assets/AldonChen_2026-05-30_OrisMorahnWebsite_MobileOverview_01.jpg"
     },
     {
-        "title": "It's Nice That",
+        "title": "It's Nice That &nearr;",
         "description": "Excerpt from It's Nice That feature.",
         "type": "text",
         "href": "https://www.itsnicethat.com/articles/aldon-chen-graphic-design-ones-to-watch-270126",
         "content": "“I grew to become very sensitive to the ways language and design engendered certain modes of interfacing and interpreting the world, which made design and language not only an issue of power, but an inherently political activity too,” says Aldon. “This is where my ethical and aesthetic affinities correspond, it’s why I think I tend to gravitate towards designing systems of some kind: interfaces, tools and more.”"
     },
     {
-        "title": "aldonchen.com (2025–2026)",
+        "title": "aldonchen.com (2025–2026) &nearr;",
         "description": "",
         "type": "image",
         "href": "https://aldonchen.com/rewind/20260127/index.html",
@@ -91,18 +98,11 @@
         "content": "assets/AldonChen_2026-05-30_ComparatorMirror_Front_01.jpg"
     },
     {
-        "title": "Creative Lives In Progress",
+        "title": "Creative Lives In Progress — Interview &nearr;",
         "description": "Excerpt from interview with Creative Lives in Progress.",
         "type": "text",
         "href": "https://creativelivesinprogress.com/articles/aldon-chen",
         "content": "I used to joke that I was a liberal arts student trapped in a design program because my greatest influences so far have come from outside the design tradition. Maggie Nelson’s writing and criticism had an enormous impact on me growing up, as did Chris Kraus’ novels, Ursula Le Guin’s essays and Ludwig Wittgenstein’s ideas. I think a lot of my work and ethical perspective, especially when I was a student, had traces of their influence. The liberal arts taught me to understand design as situated within a larger continuum of human thought, which made it genuinely meaningful to me as a way of engaging with issues that extend far beyond design itself."
-    },
-    {
-        "title": "Sketch. Designed at Numbers, for C86",
-        "description": "(http://www.by-numbers.com)",
-        "type": "image",
-        "href": "http://www.by-numbers.com",
-        "content": "assets/AldonChen_2026-06-13_Numbers-C86_Lockup-Sketch_01.png"
     },
     {
         "title": "Poetic Code Society — Gardens of Code Poster",
@@ -126,7 +126,7 @@
         "content": "assets/AldonChen_2026-05-30_ASurveyofLifeforms_01.png"
     },
     {
-        "title": "AutoSpell",
+        "title": "AutoSpell &nearr;",
         "description": "A Processing sketch that synthesizes type and cellular automata with real-time interaction.",
         "type": "image",
         "href": "https://www.commarts.com/project/37443/autospell",
@@ -140,7 +140,7 @@
         "content": "assets/AldonChen_2026-05-30_ContainerTheory_Main_01.jpg"
     },
     {
-        "title": "aldonchen.com (2024–2025)",
+        "title": "aldonchen.com (2024–2025) &nearr;",
         "description": "",
         "type": "image",
         "href": "https://aldonchen.com/rewind/20241220/index.html",

@@ -308,5 +308,10 @@ a {
     aspect-ratio: inherit;
 
 }
+
+.footer {
+    padding: 16px;
+    font-size: 10pt;
+}
     
 }
